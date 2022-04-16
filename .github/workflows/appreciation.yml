@@ -15,4 +15,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "Hello @contributor_name, 😇 thanks for raising an issue in this project."
-          pr-message: "Hello @contributor_name, 🔥 thanks for raising a pull request in this project. Now, sit back and drink some coffee while you wait for us to review it."
+          pr-message: "Hello @contributor_name, 🔥 thanks for raising a pull request in this project. Now, sit back and drink some coffee while we review this."
