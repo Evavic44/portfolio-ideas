@@ -1,17 +1,11 @@
-<!-- Complete this template with the required information -->
+### Portfolio Author
+<!-- Creator or Author name -->
 
-## Portfolio Author:
+### Portfolio Link?
+<!-- What is the relevant portfolio link? -->
 
-<!-- write your answer here-->
+### GitHub Link:
+<!-- What is the github repository? -->
 
-## Portfolio Link?
-
-<!-- write your answer here-->
-
-## GitHub Link:
-
-<!-- Paste screenshot if applicable -->
-
-## Tech Stack
-
-<!-- Add tech stack here -->
+### Tech Stack
+<!-- What are the tech stack? -->
