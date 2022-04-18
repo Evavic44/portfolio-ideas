@@ -6,10 +6,10 @@
 <p>💚 A curation of awesome portfolio ideas for developers and designers. Want to add yours or someone else's, feel free to raise a PR to add them.</p>
 </div>
   
-This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, a project made by <a href="https://github.com/GorvGoyl">Gaurav Goyal</a>
+This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a> and my personal struggle
 
 ## 🤝🏽 Contribute
-Want to add a portfolio to this list? read the <a href="github.com/evavic44/portfolio-ideas/contributing-guidelines">guidelines</a> on how to do that.
+Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.
 
 <h1 align="center">Portfolio</h1>
  
