@@ -14,10 +14,13 @@ Want to add a portfolio to this list? read the <a href="github.com/evavic44/port
 
 <h1 align="center">Portfolio</h1>
 
-| Author                 | Screenshot                                                                                                                | Live URL                                            | Repo                                      | Tech Stack                                  | 
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------| ----------------------------------------- | ------------------------------------------- |
-| Victor Eke             | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](victoreke.com)                      | [GitHub](https://github.com/evavic44/eke) | HTML, CSS, JavaScript                       | 
-| Brittany Chiang        | ![britanny-chiang](https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png) | [brittanychiang.com](https://brittanychiang.com)    | [GitHub](https://github.com/bchiang7/v4)  | React, Gatsby, Styled-components            |
+| Author                 | Screenshot                                                                                                                | Live URL                                            | Repo                                                        | Tech Stack                                                             | 
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Victor Eke             | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](victoreke.com)                      | [GitHub](https://github.com/evavic44/eke)                   | HTML, CSS, JavaScript                                                  | 
+| Brittany Chiang        | ![britanny-chiang](https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png) | [brittanychiang.com](https://brittanychiang.com)    | [GitHub](https://github.com/bchiang7/v4)                    | React, Gatsby, Styled-components                                       |
+| Braydon Coyer          | ![braydon-coyer](https://user-images.githubusercontent.com/62628408/163818384-cebba9c4-e0ac-4172-bced-7011837bb292.png)   | [braydoncoyer.dev](https://braydoncoyer.dev/)       | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev)  | React, TypeScript, NextJS, Tailwindcss, Notion API, Supabase           |
+
+
 
 
 ## 🔐 LICENSE
