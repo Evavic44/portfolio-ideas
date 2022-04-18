@@ -10,7 +10,7 @@ Click the pencil icon on the top right, this should fork the project if you have
 ![fork-project](https://user-images.githubusercontent.com/62628408/163815263-07fa9788-2f84-4ba3-8515-11b4f298e7fb.png)
 
 ## Create a new table
-The porfolio examples are encolsed between two comments `<! -- ⭐ PORTFOLIO START ⭐ -- >` and `<! -- ⭐ PORTFOLIO END ⭐ -- >`, add a new table tocopy any table data and edit it with new portfolio or just create a new table, your choice. 
+The porfolio examples are enclosed between two comments `<! -- ⭐ PORTFOLIO START ⭐ -- >` and `<! -- ⭐ PORTFOLIO END ⭐ -- >`, copy any table data and edit it or just create a new table, your choice. 
 
 ## Add Portfolio Details
 In the new table, add the following information:
