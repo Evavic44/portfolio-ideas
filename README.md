@@ -8,11 +8,13 @@
   
 This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, a project made by <a href="https://github.com/GorvGoyl">Gaurav Goyal</a>
 
- 
 ## 🤝🏽 Contribute
 Want to add a portfolio to this list? read the <a href="github.com/evavic44/portfolio-ideas/contributing-guidelines">guidelines</a> on how to do that.
 
 <h1 align="center">Portfolio</h1>
+ 
+<!-- ==== ⭐ PORTFOLIO LINE START ⭐ ==== -->
+
 
 | Author                 | Screenshot                                                                                                                | Live URL                                            | Repo                                                        | Tech Stack                                                             | 
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -21,11 +23,10 @@ Want to add a portfolio to this list? read the <a href="github.com/evavic44/port
 | Braydon Coyer          | ![braydon-coyer](https://user-images.githubusercontent.com/62628408/163818384-cebba9c4-e0ac-4172-bced-7011837bb292.png)   | [braydoncoyer.dev](https://braydoncoyer.dev/)       | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev)  | React, TypeScript, NextJS, Tailwindcss, Notion API, Supabase           |
 
 
-
+<!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
 ## 🔐 LICENSE
 This project is licensed under MIT. 
-
 
 ## 💚 Sponsor
 As you build your portfolio we hope you get that job or achiveve what you want with it. Don't forget to star this project if you find it helpful.
