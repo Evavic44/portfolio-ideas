@@ -1,4 +1,4 @@
-![Portfolio Template](https://user-images.githubusercontent.com/62628408/163659379-341f50f5-cbee-4000-9a3f-857e0874af1e.png)
+![Portfolio Ideas](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
 
 <div>
 <img align="right" src="https://c.tenor.com/--AQwe1rA8EAAAAj/batman-pixel-art.gif" width="100px">
