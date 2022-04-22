@@ -1,7 +1,7 @@
 ![Portfolio Ideas](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
 
 <div>
-<img align="right" src="https://c.tenor.com/--AQwe1rA8EAAAAj/batman-pixel-art.gif" width="100px">
+<img align="right" src="https://user-images.githubusercontent.com/62628408/164751730-44e858d9-747f-48d5-9608-d255e01eacef.png" width="60px">
 <h1 align="center">Portfolio Ideas</h1> 
 <p>💚 A curation of awesome portfolio ideas for developers and designers. Want to add yours or someone else's, feel free to raise a PR to add them.</p>
 </div>
