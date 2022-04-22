@@ -4,49 +4,56 @@
 </div>
 <br>
 
-## Fork this repository
-Click the pencil icon on the top right, this should fork the project if you haven't done that before, else, it'll edit the README file.
+## Step 1. Fork this repository
+Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
 
-![fork-project](https://user-images.githubusercontent.com/62628408/163815263-07fa9788-2f84-4ba3-8515-11b4f298e7fb.png)
+![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
 
-## Create a new table
-The porfolio examples are enclosed between two comments `<! -- ⭐ PORTFOLIO START ⭐ -- >` and `<! -- ⭐ PORTFOLIO END ⭐ -- >`, copy any table data and edit it or just create a new table, your choice. 
 
-## Add Portfolio Details
-In the new table, add the following information:
+## Step 2. Create a new table
+The portfolio examples are enclosed between two comments:
 
-### Author Name
-E.g `Victor Eke`    
+- `<! -- ⭐ PORTFOLIO START ⭐ -- >` 
+- `<! -- ⭐ PORTFOLIO END ⭐ -- >`
 
-### Screenshot
-Add a screenshot of the portfolio. Please make sure you use services like [tinypng.com](https://tinypng.com) or [compressor.io](https://compressor.io) to optimize the image sizes.
+![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
-E.g `![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)`
+To add a portfolio, you can either create a new table or copy an already existing table and edit it, your choice.
 
-### Live URL
-Add the live link to the porfolio website. **PS: Ommit the https://**
+## Step 3. Add Portfolio Details
+In the new table, start each column with a `|` symbol followed by the column content:
 
-E.g `[victoreke.com](victoreke.com)`
+### ⚡ Author Name
+Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Jemima Abu`    
 
-### Repo
+![author-name.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538578159/kX0S0PKsB.png)
+
+### ⚡Screenshot
+Take a screenshot of the homepage of the portfolio website, drag it and drop it into the screenshot column. Please before adding the screenshot, use services like [tinypng.com](https://tinypng.com) or [compressor.io](https://compressor.io) to optimize the image sizes.
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650495714252/NSLTPxLxe.gif" width="800px">
+
+### ⚡Live URL
+Add the live link to the portfolio website. **PS: Omit the https://**
+![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif)
+
+### ⚡Repo
 If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
 
-E.g `[GitHub](https://github.com/evavic44/eke)`
+`[GitHub](https://github.com/jemimaabu/portfolio)`
 
-### Tech Stack
-Next and final thing to add is the tech stack of the portfolio website. You can use [wappalyzer](https://wappalyzer.com) to detect the stack.
+![repository.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498457473/89BPbVRg0.png)
+
+### ⚡Tech Stack
+The next and final thing to add is the tech stack of the portfolio website. You can use [wappalyzer](https://wappalyzer.com), or any other service to detect the stack.
 
 E.g `HTML, CSS, JavaScript`
 
-## Preview and create a PR
-Preview the portfolio you've added and make sure it corresponds with the table, then raise a pull request.
+## Step 4. Preview and create a PR
+Now we are done adding all the portfolio information, preview the portfolio added and make sure it corresponds with the table, then raise a pull request.
 
 ## Need more help? 🤔
-If you need any adittional guide or help with any issues, feel free to contact me on twitter and I'll answer ASAP. That's a promise 🤝🏽😊
-
-<a href="https://twitter.com/evavic44">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/evavic44) and I'll answer ASAP. That's a promise 🤝🏽😊
 
 ## Sponsor
 Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
