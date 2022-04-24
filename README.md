@@ -24,6 +24,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Tania Rascia           | ![tania-rascia](https://user-images.githubusercontent.com/62628408/163881127-a67615f6-2157-4478-a4b5-46b067a4bb9f.png)    | [taniarascia.com](https://taniarascia.com)                  | [GitHub](https://github.com/taniarascia/taniarascia.com)    | React, Gatsby, CSS, Netlify, NodeJS                                    |
 | Jemima Abu             | ![jemima-abu](https://user-images.githubusercontent.com/62628408/164337756-03930aad-4702-4926-ba58-c388c06de187.png)      | [jemimaabu.com](https://jemimaabu.com)                      | [GitHub](https://github.com/jemimaabu/portfolio)            | HTML, CSS, JavaScript.                                                 |
 | Rekhchand Sahu         | ![rekhchand](https://user-images.githubusercontent.com/62628408/164760564-3c749e0f-122c-40cb-9b28-112410227874.png)       | [rekhchandsahu.com](https://rekhchandsahu.com)              | None                                                        | React, Gatsby, Preact, GSAP                                            |
+| Thang Huu Vu           | ![thang](https://user-images.githubusercontent.com/62628408/164990543-ab28fa6b-1c39-4306-bd90-565470dd896b.png)           | [thvu.dev](https://www.thvu.dev/)                           | [GitHub](https://github.com/ThangHuuVu/thvu-blog)           | React, NextJS, NodeJS, TypeScript, GraphQL, Tailwindcss                |
 
 
 
