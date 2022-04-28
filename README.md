@@ -27,6 +27,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Thang Huu Vu           | ![thang](https://user-images.githubusercontent.com/62628408/164990543-ab28fa6b-1c39-4306-bd90-565470dd896b.png)           | [thvu.dev](https://www.thvu.dev/)                           | [GitHub](https://github.com/ThangHuuVu/thvu-blog)           | React, NextJS, NodeJS, TypeScript, GraphQL, Tailwindcss                |
 | Aditya Vikram          | ![aditya](https://user-images.githubusercontent.com/62628408/164990973-ddb830bf-c3d3-4ed6-982a-9f137ff01b07.png)          | [people.umass.edu/avsingh](https://people.umass.edu/avsingh)| [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website) | HTML, CSS, JavaScript                                          |
 | Adeola Adeoti          | ![adeola](https://user-images.githubusercontent.com/62628408/165801986-100e5b52-e8b6-4346-ad83-34c4b5411d94.png)          | [adeolaadeoti.xyz](https://www.adeolaadeoti.xyz)            | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2)   | TypeScript, GSAP, NodeJS, NextJS, SCSS                                 |
+| Dejan Markovic         | ![dejan](https://user-images.githubusercontent.com/62628408/165805667-b0946e79-8ac2-44a1-aaca-f31090ea97e6.png)           | [dejan.works](https://www.dejan.works)                      | None                                                        | HTML, CSS, JavaScript, Jquery                                          |
 
 
 
