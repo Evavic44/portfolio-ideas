@@ -29,6 +29,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Adeola Adeoti          | ![adeola](https://user-images.githubusercontent.com/62628408/165801986-100e5b52-e8b6-4346-ad83-34c4b5411d94.png)          | [adeolaadeoti.xyz](https://www.adeolaadeoti.xyz)            | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2)   | TypeScript, GSAP, NodeJS, NextJS, SCSS                                 |
 | Dejan Markovic         | ![dejan](https://user-images.githubusercontent.com/62628408/165805667-b0946e79-8ac2-44a1-aaca-f31090ea97e6.png)           | [dejan.works](https://www.dejan.works)                      | None                                                        | HTML, CSS, JavaScript, Jquery                                          |
 | Jack Jeznach           | ![jack](https://user-images.githubusercontent.com/62628408/165808330-f4267570-8e93-45e8-9036-1abe7ce754bd.png)            | [jacekjeznach.com/](https://jacekjeznach.com)               | None                                                        | jQuery, PHP, GSAP, MySQL                                               |
+| Max Böck               | ![max](https://user-images.githubusercontent.com/62628408/166805924-1a843d07-59b4-408f-bb38-cfc04dd8ab87.png)             | [mxb.dev](https://mxb.dev)                                  | [GitHub](https://github.com/maxboeck/mxb)                   | Eleventy, SCSS, Nunjucks                                               |
+
 
 
 
