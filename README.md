@@ -30,6 +30,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Dejan Markovic         | ![dejan](https://user-images.githubusercontent.com/62628408/165805667-b0946e79-8ac2-44a1-aaca-f31090ea97e6.png)           | [dejan.works](https://www.dejan.works)                      | None                                                        | HTML, CSS, JavaScript, Jquery                                          |
 | Jack Jeznach           | ![jack](https://user-images.githubusercontent.com/62628408/165808330-f4267570-8e93-45e8-9036-1abe7ce754bd.png)            | [jacekjeznach.com/](https://jacekjeznach.com)               | None                                                        | jQuery, PHP, GSAP, MySQL                                               |
 | Max Böck               | ![max](https://user-images.githubusercontent.com/62628408/166805924-1a843d07-59b4-408f-bb38-cfc04dd8ab87.png)             | [mxb.dev](https://mxb.dev)                                  | [GitHub](https://github.com/maxboeck/mxb)                   | Eleventy, SCSS, Nunjucks                                               |
+| David Darnes           | ![david](https://user-images.githubusercontent.com/62628408/166808069-166b12df-f1cb-431f-b1b9-887986cea367.png)           | [darn.es](https://darn.es)                                  | None                                                        | Netlify, ETC                                                           |
 
 
 
