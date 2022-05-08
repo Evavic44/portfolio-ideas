@@ -34,6 +34,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Schulz Daniel          | ![schulz](https://user-images.githubusercontent.com/62628408/166809062-f266e962-87e7-462d-b7ae-e0fae2b6227d.png)          | [iamschulz.com](https://iamschulz.com)                      | [GitHub](https://github.com/iamschulz/iamschulz-hugo)       | Hugo, Shell, JavaScript                                                |
 | Rafael Conde           | ![rafael](https://user-images.githubusercontent.com/62628408/166811371-2ab2bc24-0d8a-4841-b859-13f65fb0dc17.png)          | [https://rafa.design](https://rafa.design)                  | [GitHub](https://github.com/rafaelconde/rafaelconde)        | Nunjucks, JavaScript, CSS                                              |
 | Bruno Simon            | ![bruno-simon](https://user-images.githubusercontent.com/62628408/167303510-f39c3350-4273-4f6f-b28e-12f095f2af7a.png)     | [bruno-simon.com](https://bruno-simon.com)                  | None                                                        | GSAP, ThreeJS, JavaScript, ETC                                         |
+| Oluwadare Oluwaseyi    | ![seyi](https://user-images.githubusercontent.com/62628408/167304333-0f446a58-b279-4d19-8f01-320be629227c.png)            | [seyi.dev](https://www.seyi.dev)                            | [GitHub](https://github.com/oluwadareseyi/folio-v2)         | HTML, SCSS, JavaScript, GSAP                                           |
 
 
 
