@@ -33,6 +33,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | David Darnes           | ![david](https://user-images.githubusercontent.com/62628408/166808069-166b12df-f1cb-431f-b1b9-887986cea367.png)           | [darn.es](https://darn.es)                                  | None                                                        | Netlify, Jekyll, ETC                                                   |
 | Schulz Daniel          | ![schulz](https://user-images.githubusercontent.com/62628408/166809062-f266e962-87e7-462d-b7ae-e0fae2b6227d.png)          | [iamschulz.com](https://iamschulz.com)                      | [GitHub](https://github.com/iamschulz/iamschulz-hugo)       | Hugo, Shell, JavaScript                                                |
 | Rafael Conde           | ![rafael](https://user-images.githubusercontent.com/62628408/166811371-2ab2bc24-0d8a-4841-b859-13f65fb0dc17.png)          | [https://rafa.design](https://rafa.design)                  | [GitHub](https://github.com/rafaelconde/rafaelconde)        | Nunjucks, JavaScript, CSS                                              |
+| Bruno Simon            | ![bruno-simon](https://user-images.githubusercontent.com/62628408/167303510-f39c3350-4273-4f6f-b28e-12f095f2af7a.png)     | [bruno-simon.com](https://bruno-simon.com)                  | None                                                        | GSAP, ThreeJS, JavaScript, ETC                                         |
 
 
 
