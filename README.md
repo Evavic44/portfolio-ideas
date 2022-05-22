@@ -40,6 +40,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Jason Lengstorf        | ![jason](https://user-images.githubusercontent.com/62628408/167304726-d8931575-6d37-453f-a2b5-02d6ba96b0ef.png)           | [jason.af](https://www.jason.af)                            | [GitHub](https://github.com/jlengstorf/jason.af)            | JavaScript, TypeScript, Nunjucks, CSS                                  |
 | Deidre Driscoll        | ![deidre](https://user-images.githubusercontent.com/62628408/169664358-7b8c417c-6e9b-4f90-8b60-00d0a79a960d.png)          | [deidredriscoll.com](https://deidredriscoll.com)            | None                                                        | HTML, JavaScript, CSS, GSAP                                            |
 | Chris Porter           | ![chris-poter](https://user-images.githubusercontent.com/62628408/169663850-4e599cde-da68-4794-8806-9c3b6a8fe11e.png)     | [madebyporter.com](https://madebyporter.com)                | [GitHub](https://github.com/madebyporter/madebyporter)      | HTML, Slim, Ruby, SCSS, Shell, JavaScript, CSS                         |
+| Louis Hoebregts        | ![louis](https://user-images.githubusercontent.com/62628408/169704989-de117c0c-7277-4523-8db4-275c561eebc8.png)           | [mamboleoo.be](https://www.mamboleoo.be)                    | None                                                        | PHP, Parcel                                                            |
 
 
 
