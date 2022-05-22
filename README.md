@@ -43,6 +43,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Louis Hoebregts        | ![louis](https://user-images.githubusercontent.com/62628408/169704989-de117c0c-7277-4523-8db4-275c561eebc8.png)           | [mamboleoo.be](https://www.mamboleoo.be)                    | None                                                        | PHP, Parcel                                                            |
 | Adrien Gervaix         | ![adrlen-gervalx](https://user-images.githubusercontent.com/62628408/169705213-49e68326-ffbf-4d3d-8a55-ffda6ba6ae04.png)  | [adriengervaix.com](https://adriengervaix.com)              | None                                                        | HTML, CSS, JavaScript                                                  |
 | Aaron Shapiro          | ![aaron-shapiro](https://user-images.githubusercontent.com/62628408/169705836-7adab895-edc8-41c0-85c0-6ad53e79ad17.png)   | [aaron.mn](https://www.aaron.mn)                            | [GitHub](https://github.com/aarshap/aaron.mn)               | React, Gatsby, Styled Components, Netlify                              |
+| Peter Tait             | ![Peter-tait](https://user-images.githubusercontent.com/62628408/169706070-12936622-7740-4e67-a764-aa3594bab506.png)      | [petertait.com](https://petertait.com)                      | [GitHub](https://github.com/petertait/petertait.com)        | React, Webpack, Radium, Netlify                                        |
 
 
 
