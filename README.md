@@ -1,9 +1,12 @@
-![Portfolio Ideas](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
+![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
+
+
+<a href="https://github.com/Evavic44/portfolio-ideas/graphs/contributors"><img src="https://img.shields.io/badge/Powered_by-Contributions-8D65C5?style=for-the-badge&logo=github&logoColor=white" alt="portfolio ideas"></a>
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/164751730-44e858d9-747f-48d5-9608-d255e01eacef.png" width="60px">
 <h1 align="center">Portfolio Ideas</h1> 
-<p>💚 A curation of awesome portfolio ideas for developers and designers. Want to add yours or someone else's, feel free to raise a PR to add them.</p>
+<p>A curation of awesome portfolio ideas for developers and designers. Want to add yours or someone else's, feel free to raise a PR to add them.</p>
 </div>
   
 This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a> and my personal struggle
