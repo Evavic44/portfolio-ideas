@@ -9,7 +9,7 @@
 <p>A curation of awesome portfolio ideas for developers and designers. Want to add yours or someone else's, feel free to raise a PR to add them.</p>
 </div>
   
-This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a> and my personal struggle
+This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, [30 web developer ideas to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw), and my personal struggle. 
 
 ## 🤝🏽 Contribute
 Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.
