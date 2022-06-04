@@ -19,6 +19,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 <!-- ==== ⭐ PORTFOLIO LINE START ⭐ ==== -->
 
 
+
 | Author              | Screenshot                                                                                                                | Live URL                                                       | Repo                                                                | Tech Stack                                                   |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Victor Eke          | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](https://victoreke.com)                         | [GitHub](https://github.com/evavic44/eke)                           | HTML, CSS, JavaScript                                        |
@@ -54,6 +55,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Raj Savaliya        | ![portfolio](https://user-images.githubusercontent.com/46242040/171985853-dbecac5c-fc94-4050-9f2f-5dba1e95c7bb.png)       | [rajsavaliya.com](https://www.rajsavaliya.com/)                | [GitHub](https://github.com/SRX9/portfoliosrx9)                     | NextJS, React, TypeScript, Tailwind CSS                      |
 | Israel Mitolu       | ![Israelmitolu](https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png)    | [israelmitolu.netlify.app](https://israelmitolu.netlify.app)   | [GitHub](https://github.com/israelmitolu/premier-portfolio)         | HTML, SASS, Javascript, GSAP  |
 | Saikat Roy          | ![Portfolio Saikat Roy](https://user-images.githubusercontent.com/28055486/171989464-e634cbf9-2772-4119-9e16-3283649290e4.png) | [saikatroy.netlify.app](https://saikatroy.netlify.app/)   | [GitHub](https://github.com/njmsaikat/portfolio)                    | HTML, CSS, Bootstrap, JavaScript, jQuery                     |
+| Anand Baraik        | ![portfolio](https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png)       | [anandbaraik.github.io](https://anandbaraik.github.io)         |  [GitHub](https://github.com/anandbaraik/anandbaraik.github.io)     | HTML, CSS, React.js                                          |
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
