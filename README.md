@@ -18,6 +18,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
  
 <!-- ==== ⭐ PORTFOLIO LINE START ⭐ ==== -->
 
+
 | Author              | Screenshot                                                                                                                | Live URL                                                       | Repo                                                                | Tech Stack                                                   |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Victor Eke          | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](https://victoreke.com)                         | [GitHub](https://github.com/evavic44/eke)                           | HTML, CSS, JavaScript                                        |
@@ -51,6 +52,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Community Pro       | ![communitypro](https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png)    | [cpro-portfolio-html](https://cpro-portfolio-html.netlify.app) | [Github](https://github.com/CommunityPro/portfolio-html)            | HTML, CSS, JavaScript                                        |
 | Ahmed Zougari       | ![portfolio](https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png)       | [ahmedzougari.netlify.app](https://ahmedzougari.netlify.app/)  | [GitHub](https://github.com/zougari47/portfolio-template)           | HTML, SASS, Bootstrap, JavaScript, Vite                      |
 | Raj Savaliya        | ![portfolio](https://user-images.githubusercontent.com/46242040/171985853-dbecac5c-fc94-4050-9f2f-5dba1e95c7bb.png)       | [rajsavaliya.com](https://www.rajsavaliya.com/)                | [GitHub](https://github.com/SRX9/portfoliosrx9)                     | NextJS, React, TypeScript, Tailwind CSS                      |
+| Israel Mitolu       | ![Israelmitolu](https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png)    | [israelmitolu.netlify.app](https://israelmitolu.netlify.app)   | [GitHub](https://github.com/israelmitolu/premier-portfolio)         | HTML, SASS, Javascript, GSAP  |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
