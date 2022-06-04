@@ -56,6 +56,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Israel Mitolu       | ![Israelmitolu](https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png)    | [israelmitolu.netlify.app](https://israelmitolu.netlify.app)   | [GitHub](https://github.com/israelmitolu/premier-portfolio)         | HTML, SASS, Javascript, GSAP  |
 | Saikat Roy          | ![Portfolio Saikat Roy](https://user-images.githubusercontent.com/28055486/171989464-e634cbf9-2772-4119-9e16-3283649290e4.png) | [saikatroy.netlify.app](https://saikatroy.netlify.app/)   | [GitHub](https://github.com/njmsaikat/portfolio)                    | HTML, CSS, Bootstrap, JavaScript, jQuery                     |
 | Anand Baraik        | ![portfolio](https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png)       | [anandbaraik.github.io](https://anandbaraik.github.io)         |  [GitHub](https://github.com/anandbaraik/anandbaraik.github.io)     | HTML, CSS, React.js                                          |
+| Nirban Chakraborty          | ![portfolio](https://user-images.githubusercontent.com/74231771/172013597-2d2fdb32-2695-4121-9e25-56a28443565a.png)   | [nirban-chakraborty.netlify.app](https://nirban-chakraborty.netlify.app/)                         | [GitHub](https://github.com/nirban256/personal_website)                           | ReactJs, JavaScript, SASS, HTML                                        |
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
