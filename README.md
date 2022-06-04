@@ -51,8 +51,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Rick Waalders          | ![rick-waalders](https://user-images.githubusercontent.com/62628408/169706503-e0065c41-b88d-43bb-9175-dfd48cc6e324.png)   | [rickwaalders.com](https://www.rickwaalders.com)            | [GitHub](https://www.rickwaalders.com)                      | NextJS, React, NodeJS, GSAP, Webpack                                   |
 | Community Pro          | ![communitypro](https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png)    | [cpro-portfolio-html](https://cpro-portfolio-html.netlify.app) | [Github](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript                                     |
 | Ahmed Zougari | ![portfolio](https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png) | [ahmedzougari.netlify.app](https://ahmedzougari.netlify.app/) |  [GitHub](https://github.com/zougari47/portfolio-template) | HTML, SASS, Bootstrap, JavaScript, Vite
-
-
+| Israel Mitolu         | ![Israelmitolu screenshot](https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png) |   [israelmitolu.netlify.app](https://israelmitolu.netlify.app)                    | [GitHub](https://github.com/israelmitolu/premier-portfolio)           | HTML, SASS, Javascript, GSAP                             |
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
