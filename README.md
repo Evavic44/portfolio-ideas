@@ -53,6 +53,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Ahmed Zougari | ![portfolio](https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png) | [ahmedzougari.netlify.app](https://ahmedzougari.netlify.app/) |  [GitHub](https://github.com/zougari47/portfolio-template) | HTML, SASS, Bootstrap, JavaScript, Vite
 
 
+| Saikat Roy | ![Portfolio Saikat Roy](https://user-images.githubusercontent.com/28055486/171989464-e634cbf9-2772-4119-9e16-3283649290e4.png)| [saikatroy.netlify.app](https://saikatroy.netlify.app/) |  [GitHub](https://github.com/njmsaikat/portfolio) | HTML, CSS, Bootstrap, JavaScript, jQuery
+
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
