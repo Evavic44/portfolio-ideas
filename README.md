@@ -57,6 +57,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Saikat Roy          | ![Portfolio Saikat Roy](https://user-images.githubusercontent.com/28055486/171989464-e634cbf9-2772-4119-9e16-3283649290e4.png) | [saikatroy.netlify.app](https://saikatroy.netlify.app/)   | [GitHub](https://github.com/njmsaikat/portfolio)                    | HTML, CSS, Bootstrap, JavaScript, jQuery                     |
 | Anand Baraik        | ![portfolio](https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png)       | [anandbaraik.github.io](https://anandbaraik.github.io)         |  [GitHub](https://github.com/anandbaraik/anandbaraik.github.io)     | HTML, CSS, React.js                                          |
 | Nirban Chakraborty          | ![portfolio](https://user-images.githubusercontent.com/74231771/172013597-2d2fdb32-2695-4121-9e25-56a28443565a.png)   | [nirban-chakraborty.netlify.app](https://nirban-chakraborty.netlify.app/)                         | [GitHub](https://github.com/nirban256/personal_website)                           | ReactJs, JavaScript, SASS, HTML                                        |
+| Shourya Shikhar Ghosh        | ![portfolio-flutter_dev_folio](https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png)   | [shourya.vercel.app](https://shourya.vercel.app)                         | [GitHub](https://github.com/danger-ahead/flutter_dev_folio)                 | Flutter                            |
+
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
