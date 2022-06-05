@@ -19,7 +19,6 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 <!-- ==== ⭐ PORTFOLIO LINE START ⭐ ==== -->
 
 
-
 | Author              | Screenshot                                                                                                                | Live URL                                                       | Repo                                                                | Tech Stack                                                   |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Victor Eke          | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](https://victoreke.com)                         | [GitHub](https://github.com/evavic44/eke)                           | HTML, CSS, JavaScript                                        |
@@ -58,7 +57,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Anand Baraik        | ![portfolio](https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png)       | [anandbaraik.github.io](https://anandbaraik.github.io)         |  [GitHub](https://github.com/anandbaraik/anandbaraik.github.io)     | HTML, CSS, React.js                                          |
 | Nirban Chakraborty          | ![portfolio](https://user-images.githubusercontent.com/74231771/172013597-2d2fdb32-2695-4121-9e25-56a28443565a.png)   | [nirban-chakraborty.netlify.app](https://nirban-chakraborty.netlify.app/)                         | [GitHub](https://github.com/nirban256/personal_website)                           | ReactJs, JavaScript, SASS, HTML                                        |
 | Sachin Chaurasiya   | ![Sachin-chaurasiya](https://user-images.githubusercontent.com/59080942/172006977-6e120ee4-9440-405e-b5ac-e861e4eeedb2.png)    | [sachinchaurasiya.dev](https://sachinchaurasiya.dev)           | None                                                                | HTML, CSS, JavaScript, ReactJs, Material UI                  |
-
+| Anish De |![anishde-dev-1280x720desktop-6badd3](https://user-images.githubusercontent.com/51731966/172062656-0b29d77e-a7b3-4e60-aa1b-5667a2bb009c.png) | [anishde.dev](https://anishde.dev)  |  [GitHub](https://github.com/AnishDe12020/portfolio) | Next.js, TypeScript, Tailwind CSS, Content Layer
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
