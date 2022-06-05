@@ -59,6 +59,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Md Nayeem Hossain   | ![nayeemdev](https://user-images.githubusercontent.com/40033062/172034871-ff70f3fd-0311-4ee9-92bd-3b1fbc0adb9b.png)       | [nayeemdev.github.io/](https://nayeemdev.github.io/)           | [GitHub](https://github.com/nayeemdev/nayeemdev.github.io)          | HTML, CSS, Bootstrap, Javascript, jQuery                     |
 | Sachin Chaurasiya   | ![Sachin-chaurasiya](https://user-images.githubusercontent.com/59080942/172006977-6e120ee4-9440-405e-b5ac-e861e4eeedb2.png)    | [sachinchaurasiya.dev](https://sachinchaurasiya.dev)           | None                                                                | HTML, CSS, JavaScript, ReactJs, Material UI                  |
 | Anish De            | ![anishde-dev](https://user-images.githubusercontent.com/51731966/172062656-0b29d77e-a7b3-4e60-aa1b-5667a2bb009c.png)     | [anishde.dev](https://anishde.dev)                             |  [GitHub](https://github.com/AnishDe12020/portfolio)                | Next.js, TypeScript, Tailwind CSS, Content Layer             |
+| Shourya Shikhar Ghosh | ![portfolio-flutter_dev_folio](https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png)   | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio)       | Flutter                                                      |
+
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
