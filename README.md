@@ -61,6 +61,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Anish De            | ![anishde-dev](https://user-images.githubusercontent.com/51731966/172062656-0b29d77e-a7b3-4e60-aa1b-5667a2bb009c.png)     | [anishde.dev](https://anishde.dev)                             |  [GitHub](https://github.com/AnishDe12020/portfolio)                | Next.js, TypeScript, Tailwind CSS, Content Layer             |
 | Shourya Shikhar Ghosh | ![portfolio-flutter_dev_folio](https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png)   | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio)       | Flutter                                                      |
 | Omar Sherif Ali ~OSA  | ![portfolio](https://user-images.githubusercontent.com/69806823/172054679-32dff626-d0ea-49ac-955c-30370b575263.png)     | [osa-portfolio.vercel.app](https://osa-portfolio.vercel.app/)  | [GitHub](https://github.com/omar-sherif9992)                        | ReactJs, JavaScript, CSS, HTML                               |
+| Robby Leonardi      | ![robby-leonardi](https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png)  | [http://www.rleonardi.com/](http://www.rleonardi.com)          | None                                                                | NextJS, React, NodeJS, GSAP, Webpack                         | 
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
