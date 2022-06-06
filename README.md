@@ -64,6 +64,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Robby Leonardi      | ![robby-leonardi](https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png)  | [http://www.rleonardi.com/](http://www.rleonardi.com)          | None                                                                | NextJS, React, NodeJS, GSAP, Webpack                         | 
 | Jeferson Brito      | ![jeferson-brito](https://user-images.githubusercontent.com/30840709/172082704-87e2a4e4-4573-42e3-b953-b1bcb36f43ad.png) | [https://www.jefersonsilva.me/](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio)  | Vue 3.0, Vite | 
 | Trịnh Minh Nhật      | ![trinhminhnhat's portfolio](https://user-images.githubusercontent.com/36529802/172173263-d87afabd-884d-4d88-b435-867f0963b868.png)  | [https://trinhminhnhat.com](https://trinhminhnhat.com)          | None                                                                | React, Tailwindcss                         | 
+| Yunus Ertürk        | ![yunus-erturk-portfolio](https://user-images.githubusercontent.com/2564340/172195787-6a42346a-1eba-4d45-b070-c34863f4fddb.png) | [yunuserturk.com](https://yunuserturk.com) | None | HTML, CSS, React, NextJS, 
+
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
