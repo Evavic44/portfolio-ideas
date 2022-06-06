@@ -63,6 +63,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Omar Sherif Ali ~OSA  | ![portfolio](https://user-images.githubusercontent.com/69806823/172054679-32dff626-d0ea-49ac-955c-30370b575263.png)     | [osa-portfolio.vercel.app](https://osa-portfolio.vercel.app/)  | [GitHub](https://github.com/omar-sherif9992)                        | ReactJs, JavaScript, CSS, HTML                               |
 | Robby Leonardi      | ![robby-leonardi](https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png)  | [http://www.rleonardi.com/](http://www.rleonardi.com)          | None                                                                | NextJS, React, NodeJS, GSAP, Webpack                         | 
 | Jeferson Brito      | ![jeferson-brito](https://user-images.githubusercontent.com/30840709/172082704-87e2a4e4-4573-42e3-b953-b1bcb36f43ad.png) | [https://www.jefersonsilva.me/](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio)  | Vue 3.0, Vite | 
+| Trịnh Minh Nhật      | ![trinhminhnhat's portfolio](https://user-images.githubusercontent.com/36529802/172173263-d87afabd-884d-4d88-b435-867f0963b868.png)  | [https://trinhminhnhat.com](https://trinhminhnhat.com)          | None                                                                | React, Tailwindcss                         | 
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
