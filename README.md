@@ -62,8 +62,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Shourya Shikhar Ghosh | ![portfolio-flutter_dev_folio](https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png)   | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio)       | Flutter                                                      |
 | Omar Sherif Ali ~OSA  | ![portfolio](https://user-images.githubusercontent.com/69806823/172054679-32dff626-d0ea-49ac-955c-30370b575263.png)     | [osa-portfolio.vercel.app](https://osa-portfolio.vercel.app/)  | [GitHub](https://github.com/omar-sherif9992)                        | ReactJs, JavaScript, CSS, HTML                               |
 | Robby Leonardi      | ![robby-leonardi](https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png)  | [http://www.rleonardi.com/](http://www.rleonardi.com)          | None                                                                | NextJS, React, NodeJS, GSAP, Webpack                         | 
-| Serdar Gökhan  |   ![serdargokhan-portfolio](https://user-images.githubusercontent.com/55996319/172113874-d9ef07c2-beef-4f11-b471-c68507f45db6.png)
-   | [serdargokhan.dev](https://serdargokhan.dev)  | [GitHub](https://github.com/serdargokhan/portfolio-website-v1)          | NextJS, TypeScript, TailwindCSS                               |
+| Serdar Gökhan  |   ![serdargokhan-portfolio](https://user-images.githubusercontent.com/55996319/172113874-d9ef07c2-beef-4f11-b471-c68507f45db6.png) | [serdargokhan.dev](https://serdargokhan.dev)  | [GitHub](https://github.com/serdargokhan/portfolio-website-v1)          | NextJS, TypeScript, TailwindCSS                               |
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
