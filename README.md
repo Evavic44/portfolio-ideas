@@ -64,6 +64,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Jeferson Brito        | ![jeferson-brito](https://user-images.githubusercontent.com/30840709/172082704-87e2a4e4-4573-42e3-b953-b1bcb36f43ad.png)              | [https://www.jefersonsilva.me/](https://www.jefersonsilva.me/)            | [GitHub](https://github.com/jeferson-sb/portfolio)                  | Vue 3.0, Vite                                                |
 | Trịnh Minh Nhật       | ![trinhminhnhat's portfolio](https://user-images.githubusercontent.com/36529802/172173263-d87afabd-884d-4d88-b435-867f0963b868.png)   | [https://trinhminhnhat.com](https://trinhminhnhat.com)                    | None                                                                | React, Tailwindcss                                           |
 | Yunus Ertürk          | ![yunus-erturk-portfolio](https://user-images.githubusercontent.com/2564340/172195787-6a42346a-1eba-4d45-b070-c34863f4fddb.png)       | [yunuserturk.com](https://yunuserturk.com)                                | None                                                                | HTML, CSS, React, NextJS,                                    |
+| Micah Lindley         | ![Screenshot 2022-06-07 173455 (1)](https://user-images.githubusercontent.com/86574651/172486974-7718d5b2-0386-477c-a912-21879def00c3.png) | [micahlindley.com](https://micahlindley.com) | [GitHub](https://github.com/micahlt/micahlt.github.io) | Vue 3, Vite
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
