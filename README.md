@@ -74,7 +74,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Reza Ghasemzadeh      | ![rezaghz](https://user-images.githubusercontent.com/36597017/172766065-02873144-d8df-4097-939f-5fa54fb339f0.jpg)                     | [rezaghz.com](https://rezaghz.com)                                        | None                                                                | HTML, CSS, Bootstrap,Javascript, Blade                       |
 | Ariful Alam           | ![gitprofile-portfolio](https://user-images.githubusercontent.com/45073703/172781247-64b27deb-777e-48ec-b409-d1547bd7f96f.png)        | [arifszn.github.io/gitprofile](https://arifszn.github.io/gitprofile)      | [GitHub](https://github.com/arifszn/gitprofile)                     | React, Vite, Tailwind CSS                                    |
 | Haythem Lazaar        | ![haythem-lazaar](https://user-images.githubusercontent.com/74047809/172827043-dfa556ec-88e7-48ac-ace5-aff177f57a89.png)              | [portfolio-2022-blond.vercel.app](https://portfolio-2022-blond.vercel.app) | [GitHub](https://github.com/HaythemLazaar/portfolio-2022)          | HTML, SASS, JavaScript                                       |
-
+| Dale Larroder         | ![dalelarroder.com](https://user-images.githubusercontent.com/52998821/172965944-b25832f5-53a1-4833-a651-26d5ca0cdb20.png)    | [dalelarroder.com](https://dalelarroder.com) | None | NextJS, Preact, TypeScript, Tailwind, MDX |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
