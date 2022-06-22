@@ -81,6 +81,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Andrew Baisden        | ![Andrew Baisden](https://user-images.githubusercontent.com/5095486/173239467-0c16213e-e41c-47e8-94cc-959706474ee7.png)   | [andrewbaisden.com](https://andrewbaisden.com) | [GitHub](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022)          | HTML, CSS, TypeScript, ReactJS |
 | Aziz Rahman           | ![Aziz Stark](https://user-images.githubusercontent.com/35897418/174632557-a890ce80-1ded-477a-b99b-336c500a044f.png)                  |  [azizstark.com](https://azizstark.com)                                   | [Github](https://github.com/AzizStark/AzizStark/tree/portfolio-v2)  | React, Gatsby, Styled-Components, SCSS, AnimeJS              |
 | Leonel Ngoya            | ![portfolio-ln](https://lndev.me/img/1.png)               | [lndev.me](https://lndev.me)                                    | [GitHub](https://github.com/ln-dev7)                           | HTML, CSS, JavaScript   |
+| Jimmy Soussan           |![Cozy Codeur _ Jimmy Soussan](https://user-images.githubusercontent.com/32173192/174971390-5c5714ac-abef-49b3-b903-1e4456481a13.png) |  [cozy-codeur.fr](https://www.cozy-codeur.fr) | [Github](https://github.com/jilink/personal-portfolio)  | React, Gatsby, Chakra UI, Framer Motion            |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
