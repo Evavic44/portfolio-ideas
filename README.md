@@ -80,7 +80,6 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Patrick Heng          | ![Patrick Heng](https://user-images.githubusercontent.com/71810927/173091834-946abebd-d814-4b52-be4e-49b6dc9cd521.png)    | [patrickheng.com](https://patrickheng.com/) | None          | Nuxt.js, GSAP, ThreeJS
 | Andrew Baisden        | ![Andrew Baisden](https://user-images.githubusercontent.com/5095486/173239467-0c16213e-e41c-47e8-94cc-959706474ee7.png)   | [andrewbaisden.com](https://andrewbaisden.com) | [GitHub](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022)          | HTML, CSS, TypeScript, ReactJS |
 | Aziz Rahman           | ![Aziz Stark](https://user-images.githubusercontent.com/35897418/174632557-a890ce80-1ded-477a-b99b-336c500a044f.png)                  |  [azizstark.com](https://azizstark.com)                                   | [Github](https://github.com/AzizStark/AzizStark/tree/portfolio-v2)  | React, Gatsby, Styled-Components, SCSS, AnimeJS              |
-
 | Jimmy Soussan           |![Cozy Codeur _ Jimmy Soussan (1)](https://user-images.githubusercontent.com/32173192/174971390-5c5714ac-abef-49b3-b903-1e4456481a13.png) |  [cozy-codeur.fr](https://www.cozy-codeur.fr) | [Github](https://github.com/jilink/personal-portfolio)  | React, Gatsby, Chakra UI, Framer Motion            |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
