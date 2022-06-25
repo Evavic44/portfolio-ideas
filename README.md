@@ -84,6 +84,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Segun Ajibola         | ![profile](https://user-images.githubusercontent.com/74687658/175204130-9b244725-408f-432b-955f-ecd3e4d340a4.png) | [segunajibola.com](https://www.segunajibola.com)                               | [Github](https://github.com/segunajibola/portfolio)                   | HTML, CSS, TailwindCSS, React, SwiperJS                      |
 | Hisami Kurita         | ![Hisami Kurita](https://user-images.githubusercontent.com/53873209/175480204-5de0a83a-2f44-4c87-b230-98387847dce5.jpg)               | [hsmkrt1996.com](https://hsmkrt1996.com/)                                  | [Github](https://github.com/hisamikurita/hisamikurita-portfoliosite)     | Vue.js, Nuxt.js, SCSS, Three.js, GSAP, ASSCROLL, imagesLoaded |
 | Dennis Snellenberg    | ![dennis-stellenberg](https://user-images.githubusercontent.com/62628408/175517075-23ee52df-8724-4772-a46d-d3ff28c5e30a.png)          | [dennissnellenberg.com](https://dennissnellenberg.com/)                    | None                                                                     | GSAP. JQuery, PHP, VueJS                                     |
+| Isaac Fayemi          | ![isaac fayemi](https://user-images.githubusercontent.com/53873209/175786263-413a941c-99c8-4ac5-a54f-5af3cecdcf33.png)                | [fayemi.design](https://www.fayemi.design/)                                | None                                                                     |  Vanilla JS, pug, Prismic CMS, SCSS, threejs, GSAP
+
 
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
