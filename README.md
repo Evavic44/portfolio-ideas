@@ -86,6 +86,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Dennis Snellenberg    | ![dennis-stellenberg](https://user-images.githubusercontent.com/62628408/175517075-23ee52df-8724-4772-a46d-d3ff28c5e30a.png)          | [dennissnellenberg.com](https://dennissnellenberg.com/)                    | None                                                                     | GSAP. JQuery, PHP, VueJS                                     |
 | Isaac Fayemi          | ![isaac fayemi](https://user-images.githubusercontent.com/53873209/175786263-413a941c-99c8-4ac5-a54f-5af3cecdcf33.png)                | [fayemi.design](https://www.fayemi.design/)                                | None                                                                     |  Vanilla JS, pug, Prismic CMS, SCSS, threejs, GSAP          |
 | Bhavin Virani         | ![bhavin-virani](https://user-images.githubusercontent.com/66407251/176358358-0cfb52ee-816c-4094-a104-3df88f94a082.png) | [bhavinn.xyz](https://bhavinn.xyz) | [Github](https://github.com/bhavinvirani/Protfolio)   |  HTML, CSS, JS, React.js, Github API |
+| Patrick Scott         | ![Patrick Scott](https://user-images.githubusercontent.com/4536756/176472964-e5c42bbf-e33c-4cc0-98b3-14f2dea2c4ef.png) | [pscott.io](https://pscott.io) | None   |  React.js, Heroku and Github Pages |
 
 
 
