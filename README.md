@@ -89,6 +89,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Patrick Scott         | ![Patrick Scott](https://user-images.githubusercontent.com/4536756/176472964-e5c42bbf-e33c-4cc0-98b3-14f2dea2c4ef.png) | [pscott.io](https://pscott.io) | None   |  React.js, Heroku and Github Pages |
 | Lazar Nikolov         | ![lazar-nikolov](https://user-images.githubusercontent.com/5396211/176441285-ec27b56f-c3b8-4f16-8900-11159bd133a8.png) | [nikolovlazar.com](https://nikolovlazar.com) | [Github](https://github.com/nikolovlazar/nikolovlazar.com)   |  Next.js, Chakra UI, MDX, Prisma, PlanetScale |
 | Reuben Rapose         | ![ss-website](https://user-images.githubusercontent.com/54074556/176431686-61ebae05-7555-49d9-9736-94038afe9968.png) | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence)  | HTML, TailwindCSS, React, Javascript, Next.JS, MDX, Mailchimp Newsletter, Gisqus Comments, etc. |
+| M. Shahanwaz         | ![portfolio-ms](https://user-images.githubusercontent.com/57594421/176514845-cca4bf4b-42a4-4ec9-b7f2-21e41f4fe543.png) | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4)  | HTML, CSS, JavaScript, React, Next.js, Nodemailer |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
