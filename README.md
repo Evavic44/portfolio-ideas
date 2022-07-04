@@ -91,8 +91,8 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Reuben Rapose         | ![ss-website](https://user-images.githubusercontent.com/54074556/176431686-61ebae05-7555-49d9-9736-94038afe9968.png) | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence)  | HTML, TailwindCSS, React, Javascript, Next.JS, MDX, Mailchimp Newsletter, Gisqus Comments, etc. |
 | M. Shahanwaz         | ![portfolio-ms](https://user-images.githubusercontent.com/57594421/176514845-cca4bf4b-42a4-4ec9-b7f2-21e41f4fe543.png) | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4)  | HTML, CSS, JavaScript, React, Next.js, Nodemailer |
 | Lee Robinson          | ![lee-robinson](https://user-images.githubusercontent.com/62628408/177008471-0421b1f6-14c1-4c02-9e96-68e9cda604cf.png)                | [leerob.io](https://leerob.io/)                                             | [GitHub](https://github.com/leerob/leerob.io)                           | Next.js, PlanetScale, Prisma, Vercel, Sanity, Tailwind CSS   |
+| Parth Desai           | ![parth-desai](https://user-images.githubusercontent.com/68416104/177186186-1fa8baa4-c03c-49be-b9ec-08476a678356.png) | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, React, Javascript, Next.JS, MDX, Mailchimp Newsletter, Gisqus Comments |
 | Victor Ikechukwu         | ![victor-site](https://user-images.githubusercontent.com/69702944/177051340-bc7bd4cc-b3af-4fd6-9dba-d102ebb9b0fe.png) | [iamvictor.tech](https://iamvictor.tech) | None  | Next.js, Tailwind CSS, React Rough Notation, Vivus, Netlify |                                
-
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
