@@ -94,8 +94,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Parth Desai           | ![parth-desai](https://user-images.githubusercontent.com/68416104/177186186-1fa8baa4-c03c-49be-b9ec-08476a678356.png) | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, React, Javascript, Next.JS, MDX, Mailchimp Newsletter, Gisqus Comments |
 | Victor Ikechukwu         | ![victor-site](https://user-images.githubusercontent.com/69702944/177051340-bc7bd4cc-b3af-4fd6-9dba-d102ebb9b0fe.png) | [iamvictor.tech](https://iamvictor.tech) | None  | Next.js, Tailwind CSS, React Rough Notation, Vivus, Netlify |                                
 | Usman Sabuwala        | ![usman-s](https://user-images.githubusercontent.com/107297384/177572197-e0ecc686-260e-48eb-99e3-dcf4061f8d50.png)               | [usman-s.me](https://www.usman-s.me)                                           | [GitHub](https://github.com/max-programming/usman-s.me)                            | NextJS, Chakra UI, Framer Motion    |
-| Zacky Aduoli        |    ![zacky](https://user-images.githubusercontent.com/49382800/177875273-53d77154-14d4-4db8-a9d9-7de204941813.png)       | [lookupzach.netlify.app](https://lookupzach.netlify.app)                                           | None                            | ReactJS, 
-Material UI, SCSS  
+| Zacky Aduoli        |    ![zacky](https://user-images.githubusercontent.com/49382800/177875273-53d77154-14d4-4db8-a9d9-7de204941813.png)       | [lookupzach.netlify.app](https://lookupzach.netlify.app)                                           | None                            | ReactJS,Material UI, SCSS  |
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
 ## 🔐 LICENSE
