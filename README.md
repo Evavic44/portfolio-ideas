@@ -96,6 +96,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Usman Sabuwala        | ![usman-s](https://user-images.githubusercontent.com/107297384/177572197-e0ecc686-260e-48eb-99e3-dcf4061f8d50.png)               | [usman-s.me](https://www.usman-s.me)                                           | [GitHub](https://github.com/max-programming/usman-s.me)                            | NextJS, Chakra UI, Framer Motion    |
 | Zacky Aduoli        |    ![zacky](https://user-images.githubusercontent.com/49382800/177875273-53d77154-14d4-4db8-a9d9-7de204941813.png)       | [lookupzach.netlify.app](https://lookupzach.netlify.app)                                           | None                            | ReactJS, Material UI, SCSS, Styled Components  |
 | Payton Pierce         | ![Payton Pierce](https://user-images.githubusercontent.com/18350557/176930938-fc5fab09-c45c-4c4c-a85a-0a3cdd9a4e81.png)                | [paytonpierce.dev](https://paytonpierce.dev)                               | [GitHub](https://github.com/paytonjewell/paytonpierce.dev) | ReactJS, Material UI                                          |
+| Jacob Valdez         | ![jacobfv github io](https://user-images.githubusercontent.com/40343913/178501844-3067eecd-de14-47ff-812b-57ad1bb3c50c.png)              | [jacobfv.github.io](https://jacobfv.github.io)                               | [GitHub](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll                                          |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
