@@ -104,7 +104,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Rohit Saini           | ![portfolio](https://user-images.githubusercontent.com/40729749/183277227-6a2a2537-bb13-4836-bab2-a5f1a56b0ab7.jpg) | [rohit-saini](https://portfolio-45b9b.web.app/)                                         | None     | ReactJs, CSS, GSAP, Framer Motion |
 | Oscar Barajas         | ![gndx.io](https://user-images.githubusercontent.com/10554486/181944426-ba1b32bf-0adf-44e5-b3b0-f99412932d78.png)                      | [gndx.io](https://gndx.io)                                             | [GitHub](https://github.com/gndx/gndx.io)                                | HTML, TailwindCSS                                                                           |
 | Phillip Cabrera         | ![portfolio](https://user-images.githubusercontent.com/77460748/183470369-4869772d-a402-49b2-baf2-9b14ab2b237b.png)|[Portfolio](https://pcabreram-portfolio.netlify.app/)|[GitHub](https://github.com/pcabreram1234/portfolio)| HTML, CSS, JavaScript, Webpack, ReactJs   |
-
+| Nahuel Carrizo         | ![portfolio](https://raw.githubusercontent.com/Nahuel61920/portafolio-Nahuel/main/src/img/portfolio.png)|[Portfolio](https://nahuel61920.github.io/portafolio-Nahuel/)|[GitHub](https://github.com/Nahuel61920/portafolio-Nahuel)| HTML, CSS, JavaScript, React, Webpack, Github Pages |
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
 ## 🔐 LICENSE
