@@ -106,6 +106,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Phillip Cabrera         | ![portfolio](https://user-images.githubusercontent.com/77460748/183470369-4869772d-a402-49b2-baf2-9b14ab2b237b.png)|[Portfolio](https://pcabreram-portfolio.netlify.app/)|[GitHub](https://github.com/pcabreram1234/portfolio)| HTML, CSS, JavaScript, Webpack, ReactJs   |
 | Nahuel Carrizo         | ![portfolio](https://raw.githubusercontent.com/Nahuel61920/portafolio-Nahuel/main/src/img/portfolio.png)|[Portfolio](https://nahuel61920.github.io/portafolio-Nahuel/)|[GitHub](https://github.com/Nahuel61920/portafolio-Nahuel)| HTML, CSS, JavaScript, React, Webpack, Github Pages |
 | Alfaizkhan Pathan | ![portfolio](https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan.github.io/main/Screenshot-dark.png)|[Portfolio](https://alfaizkhan.github.io)|[GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io)| Flutter, Dart, Github Pages |
+| Jatin Kamboj | ![portfolio](https://i.imgur.com/TxglVle.png) | [jatinkamboj.me](https://jatinkamboj.me/) | None | HTML, CSS, JavaScript, GreenSock
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
