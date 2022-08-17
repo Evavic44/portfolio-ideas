@@ -110,12 +110,14 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
-## 🔐 LICENSE
+## 💥 Suggestions
+Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](
+https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well. 
 
+## 🔐 LICENSE
 This project is licensed under MIT.
 
 ## 💚 Sponsor
-
 As you build your portfolio we hope you get that job or achiveve what you want with it. Don't forget to star this project if you find it helpful.
 If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
 
