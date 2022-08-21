@@ -107,17 +107,20 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Nahuel Carrizo        | ![portfolio](https://raw.githubusercontent.com/Nahuel61920/portafolio-Nahuel/main/src/img/portfolio.png)                                     | [Portfolio](https://nahuel61920.github.io/portafolio-Nahuel/)                      | [GitHub](https://github.com/Nahuel61920/portafolio-Nahuel)               | HTML, CSS, JavaScript, React, Webpack, Github Pages                                             |
 | Alfaizkhan Pathan     | ![portfolio](https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan.github.io/main/Screenshot-dark.png)                                     | [Portfolio](https://alfaizkhan.github.io)                                          | [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io)             | Flutter, Dart, Github Pages                                                                     |
 | Jatin Kamboj          | ![portfolio](https://i.imgur.com/TxglVle.png)                                                                                                | [jatinkamboj.me](https://jatinkamboj.me/)                                          | None                                                                     | HTML, CSS, JavaScript, GreenSock                                                                |
+| Andrew Irorere        | ![portfolio](https://raw.githubusercontent.com/andreyscott/profile/magic/src/andrey.png?token=GHSAT0AAAAAABXLLOFXD2R573X4HREY4JWAYYCDK3A)    | [andreyscott.web](https://andrey-profile.web.app/)                                 | None                                                                     | React.js, CSS, React-Router, React.ga                                                           |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
 ## 💥 Suggestions
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](
-https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well. 
+
+Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
 ## 🔐 LICENSE
+
 This project is licensed under MIT.
 
 ## 💚 Sponsor
+
 As you build your portfolio we hope you get that job or achiveve what you want with it. Don't forget to star this project if you find it helpful.
 If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
 
