@@ -67,3 +67,8 @@ I hope you have a lot of fun while contributing to this project, if you drew ins
 
 <hr>
 <img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
+
+# Contributing
+
+We love pull requests from everyone. By participating in this project, you
+agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
