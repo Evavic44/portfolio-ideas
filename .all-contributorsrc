@@ -16,6 +16,16 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "israelmitolu",
+      "name": "Israel Mitolu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53873209?v=4",
+      "profile": "https://israelmitolu.netlify.app",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
