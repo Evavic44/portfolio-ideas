@@ -115,23 +115,17 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Çağlar Turalı         | ![caglar portfolio](https://user-images.githubusercontent.com/71810927/185857785-a1da121c-15fe-48dc-b242-e79811c676f7.png)                   | [turali.js.org](https://turali.js.org/)                                            | [GitHub](https://github.com/caglarturali/caglarturali.github.io)         | React, TypeScript                                                                               |
 | Pyae Sone             | ![pyaesone_portfolio](https://user-images.githubusercontent.com/99592123/186507689-9342132b-ff92-4883-b944-511ba3fef734.png)                 | [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/)          | [GitHub](https://github.com/pyaesonepsn/portfolio-project)               | HTML, CSS, JavaScript                                                                           |
 | Efren Martinez        | ![portafolio-efrencodes](https://user-images.githubusercontent.com/10801400/187723688-077ff829-813b-4201-a5e2-39306b0aed58.png)              | [efrencodes.com](https://efrencodes.com)                                           | [GitHub](https://github.com/efrencodes/efrencodes.ts)                    | NextJS, TypeScript, TailwindCSS                                                                 |
-| Eliaz LR        | ![Portfolio-EliazLR](https://user-images.githubusercontent.com/47760515/188088628-7f9e7f92-6848-4f98-924c-46343e50cf49.png) | [eliaz-lr.dev](https://eliaz-lr.dev)                                           | None                    | Vue 3, Vite, TailwindCSS                                                                 |
-| Hikmet C. Kufteoglu | ![hicaku](https://user-images.githubusercontent.com/40501852/188321184-0d750ecd-85ae-491a-8e34-ecfd393a2d0c.png) | [hicaku.com](https://hicaku.com) | [GitHub](https://github.com/spencehiko/portfolio)   | Vue 3, Pinia, TypeScript
-| Ara Oladipo | ![ara-portfolio](https://user-images.githubusercontent.com/67078991/189193913-3e351d62-8515-47cd-9069-c449b0c81a77.png) | [araoladipo.tech](https://araoladipo.tech/) | [GitHub](https://github.com/Ara-O/Portfolio-Website) | HTML, CSS, Javascript, Vue.js, Spline3D
-
-
+| Eliaz LR              | ![Portfolio-EliazLR](https://user-images.githubusercontent.com/47760515/188088628-7f9e7f92-6848-4f98-924c-46343e50cf49.png)                  | [eliaz-lr.dev](https://eliaz-lr.dev)                                               | None                                                                     | Vue 3, Vite, TailwindCSS                                                                        |
+| Hikmet C. Kufteoglu   | ![hicaku](https://user-images.githubusercontent.com/40501852/188321184-0d750ecd-85ae-491a-8e34-ecfd393a2d0c.png)                             | [hicaku.com](https://hicaku.com)                                                   | [GitHub](https://github.com/spencehiko/portfolio)                        | Vue 3, Pinia, TypeScript                                                                        |
+| Ara Oladipo           | ![ara-portfolio](https://user-images.githubusercontent.com/67078991/189193913-3e351d62-8515-47cd-9069-c449b0c81a77.png)                      | [araoladipo.tech](https://araoladipo.tech/)                                        | [GitHub](https://github.com/Ara-O/Portfolio-Website)                     | HTML, CSS, Javascript, Vue.js, Spline3D                                                         |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
-## 💥 Suggestions
+## Suggestions
 
 Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
-## 🔐 LICENSE
-
-This project is licensed under MIT.
-
-## 💚 Sponsor
+## Sponsor
 
 As you build your portfolio we hope you get that job or achiveve what you want with it. Don't forget to star this project if you find it helpful.
 If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
@@ -139,3 +133,22 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 <a href="https://buymeacoffee.com/evavic44">
   <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
 </a>
+
+<hr>
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-blue.svg?style=for-the-badge)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
