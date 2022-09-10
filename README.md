@@ -1,7 +1,6 @@
 ![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
 <a href="https://github.com/Evavic44/portfolio-ideas/graphs/contributors"><img src="https://img.shields.io/badge/Powered_by-Contributions-8D65C5?style=for-the-badge&logo=github&logoColor=white" alt="portfolio ideas"></a>
 
-
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/164751730-44e858d9-747f-48d5-9608-d255e01eacef.png" width="60px">
 <h1 align="center">Portfolio Ideas</h1> 
@@ -11,6 +10,7 @@
 This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, [30 web developer ideas to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw), and my personal struggle.
 
 ## Contribute
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
@@ -119,6 +119,7 @@ This project is created to capture portfolio ideas for developers and designers 
 | Eliaz LR              | ![Portfolio-EliazLR](https://user-images.githubusercontent.com/47760515/188088628-7f9e7f92-6848-4f98-924c-46343e50cf49.png)                  | [eliaz-lr.dev](https://eliaz-lr.dev)                                               | None                                                                     | Vue 3, Vite, TailwindCSS                                                                        |
 | Hikmet C. Kufteoglu   | ![hicaku](https://user-images.githubusercontent.com/40501852/188321184-0d750ecd-85ae-491a-8e34-ecfd393a2d0c.png)                             | [hicaku.com](https://hicaku.com)                                                   | [GitHub](https://github.com/spencehiko/portfolio)                        | Vue 3, Pinia, TypeScript                                                                        |
 | Ara Oladipo           | ![ara-portfolio](https://user-images.githubusercontent.com/67078991/189193913-3e351d62-8515-47cd-9069-c449b0c81a77.png)                      | [araoladipo.tech](https://araoladipo.tech/)                                        | [GitHub](https://github.com/Ara-O/Portfolio-Website)                     | HTML, CSS, Javascript, Vue.js, Spline3D                                                         |
+| Anthony Fu            | ![antfu](https://user-images.githubusercontent.com/62628408/189466543-8297ec23-92e1-445d-8b26-dc2f38e73dc9.png)                              | [antfu.me](https://antfu.me/)                                                      | [GitHub](https://github.com/antfu/antfu.me)                              | VueJS, Markdown, TypeScript, CSS, HTML                                                          |
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
@@ -136,6 +137,7 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 </a>
 
 ## Contributors
+
 Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
