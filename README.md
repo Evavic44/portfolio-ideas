@@ -1,4 +1,7 @@
 ![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://github.com/Evavic44/portfolio-ideas/graphs/contributors"><img src="https://img.shields.io/badge/Powered_by-Contributions-8D65C5?style=for-the-badge&logo=github&logoColor=white" alt="portfolio ideas"></a>
 
@@ -137,6 +140,21 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
