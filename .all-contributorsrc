@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Evavic44",
+      "name": "Victor Eke ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62628408?v=4",
+      "profile": "http://victoreke.com",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "portfolio-ideas",
+  "projectOwner": "Evavic44",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
