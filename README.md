@@ -1,9 +1,6 @@
 ![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <a href="https://github.com/Evavic44/portfolio-ideas/graphs/contributors"><img src="https://img.shields.io/badge/Powered_by-Contributions-8D65C5?style=for-the-badge&logo=github&logoColor=white" alt="portfolio ideas"></a>
+
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/164751730-44e858d9-747f-48d5-9608-d255e01eacef.png" width="60px">
@@ -13,9 +10,10 @@
   
 This project is created to capture portfolio ideas for developers and designers so they can draw inspirations when they decide to create their own. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, [30 web developer ideas to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw), and my personal struggle.
 
-## 🤝🏽 Contribute
+## Contribute
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
-Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.
+<div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
 
 <h1 align="center">Portfolio</h1>
  
@@ -138,6 +136,7 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 </a>
 
 ## Contributors
+Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -155,14 +154,5 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
