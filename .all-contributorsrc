@@ -26,6 +26,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "piyush-multiplexer",
+      "name": "Piyush Goyani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18528418?v=4",
+      "profile": "https://piyushgoyani.thesourcepedia.org",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
