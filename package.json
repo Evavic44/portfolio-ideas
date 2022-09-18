@@ -11,7 +11,9 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "*": "prettier --write"
+    "**/*.{md,ts,js,tsx,jsx}": [
+      "npx prettier --write"
+    ]
   },
   "repository": {
     "type": "git",

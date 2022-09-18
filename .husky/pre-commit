@@ -2,5 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm test
-npm lint-staged
+npx lint-staged
 # npx prettier --write --ignore-path .gitignore . && git add .
