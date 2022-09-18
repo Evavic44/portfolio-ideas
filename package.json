@@ -4,15 +4,14 @@
   "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install",
-    "lint": "prettier --check .",
-    "format": "prettier --write ."
+    "test": "echo \"no test available\"",
+    "format": "prettier --check --ignore-path .gitignore .",
+    "format:fix:all": "prettier --write --ignore-path .gitignore .",
+    "format:fix": "prettier --write",
+    "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "prettier --write . && git add -A ."
-    }
+  "lint-staged": {
+    "*": "prettier --write"
   },
   "repository": {
     "type": "git",
@@ -35,6 +34,7 @@
   "homepage": "https://github.com/Evavic44/portfolio-ideas#readme",
   "devDependencies": {
     "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
     "prettier": "^2.7.1"
   }
 }
