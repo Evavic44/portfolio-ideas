@@ -1,0 +1,42 @@
+{
+  "name": "portfolio-ideas",
+  "version": "0.0.1",
+  "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test available\"",
+    "format": "prettier --check --ignore-path .gitignore .",
+    "format:fix:all": "prettier --write --ignore-path .gitignore .",
+    "format:fix": "prettier --write",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*.{md,ts,js,tsx,jsx}": [
+      "npx prettier --write"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evavic44/portfolio-ideas.git"
+  },
+  "keywords": [
+    "portfolio",
+    "portfolio-ideas",
+    "resume",
+    "developer",
+    "ideas",
+    "inspiration",
+    "designers"
+  ],
+  "author": "Victor Eke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evavic44/portfolio-ideas/issues"
+  },
+  "homepage": "https://github.com/Evavic44/portfolio-ideas#readme",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
+  }
+}
