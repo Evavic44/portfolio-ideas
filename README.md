@@ -132,7 +132,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Maggie Appleton       | ![MaggieAppleton](https://user-images.githubusercontent.com/18528418/190361290-ec86e3f1-d6a2-49c2-a893-225cc92d1247.png)                     | [maggieappleton.com](https://maggieappleton.com/)                                  | [Github](https://github.com/MaggieAppleton/maggieappleton.com-V2)        | React, Next.js, MDX, Algolia Search, Reach UI, Tippy.js, Framer Motion, styled-components, Lodash |
 | Moe Dayraki           | ![MoeDayraki](https://user-images.githubusercontent.com/54773679/191480771-849128cd-4b2c-4283-bb46-b7baa7a35f0a.jpg)                         | [moe.dayrakiarts.com](https://moe.dayrakiarts.com)                                 | [Github](https://github.com/moedayraki/moedayraki.github.io)             | Vue 3, Vite, Cypress, Tailwindcss, Typescript, Pinia, Primevue, magic.css, VueUse                 |
 | Truong Phan| ![Techika](https://user-images.githubusercontent.com/259888/192136996-006f2a19-4d4f-496e-89f6-7fbbbf6f2741.png)                         | [techika.com](https://techika.com)                                 | [Github](https://github.com/infantiablue) | Vue 3, Vite, VuePress, Tailwindcss, Tailwind, Lighthouse              | [
-
+| Wasim Baig           | ![wasim](https://user-images.githubusercontent.com/84036037/192362869-392ba8db-20d3-403f-a000-15636cb4f2c3.png)                       | [wasimbaig.com](https://wasimbaig.com)                                             | [GitHub](https://github.com/simbaig/portfolio-nextjs)                                | Next JS, Tailwind CSS, Framer-Motion 
+   
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
