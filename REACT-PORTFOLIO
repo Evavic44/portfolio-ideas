@@ -1,0 +1,717 @@
+
+import { useEffect, useState } from 'react';
+import Loader from 'react-loaders';
+import { Link } from 'react-router-dom';
+import AnimatedLetters from '../AnimatedLetters';
+import'./index.scss';
+import Logo from './Logo';
+const Home = ()=>{
+    const [letterClass, setLetterClass] = useState('text-animate')
+    const nameArray = ['A','d','i','t','i',' ','M','a','h','a','b','o','l','e']
+    const jobArray=['S','t','u','d','e','n','t',' ','A','t', ' ' ,'J','I','I','T']
+
+    useEffect(() => {
+        setTimeout(() => {
+          setLetterClass('text-animate-hover')
+        }, 4000)
+      }, [])
+
+    return(
+        <>
+        <div className="container home-page">
+            <div className="text-zone">
+                <h1>
+                    <span className={letterClass}>H</span>
+                    <span className={`${letterClass} _12`}>i,</span>
+                    <span className={`${letterClass} _13`}>I</span>
+                    <span className={`${letterClass} _14`}>'m</span>
+
+                    <br/>
+                    <AnimatedLetters letterClass={letterClass}
+                    strArray={nameArray}
+                    idx={15} />
+                    <br/>
+                    <AnimatedLetters letterClass={letterClass}
+                    strArray={jobArray}
+                    idx={21} />
+                    <br/>
+                </h1>
+                <h2> Pursuing BTech | Computer Science</h2>
+                <br/><br/><br/><br/>
+                <Link to="/contact" className="flat-button">CONTACT ME</Link>
+            </div>
+            <Logo>
+
+            </Logo>
+       </div>
+       <Loader type="pacman"/>
+       </>
+    )
+}
+export default Homeimport './index.scss'
+import Loader from 'react-loaders'
+import AnimatedLetters from '../AnimatedLetters'
+import { useEffect,useRef, useState } from 'react'
+import emailjs from '@emailjs/browser'
+import {faAddressBook, faDatabase, faDice, faEnvelope, faHeart, faHome, faKeyboard, faMicrophone, faMusic, faPaintRoller, faRandom, faSoccerBall, faUser } from '@fortawesome/free-solid-svg-icons';
+import {faAmazon, faGithub, faGoogle,  faHackerrank, faLinkedin, faReact} from '@fortawesome/free-brands-svg-icons';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+const Contact=()=>{
+
+    const [letterClass,setLetterClass]= useState('text-animate')
+    const refForm =useRef()
+    useEffect(() => {
+         setTimeout(() => {
+          setLetterClass('text-animate-hover')
+        }, 3000)
+      }, [])
+
+      const sendEmail = (e)=>{
+        e.preventDefault()
+        emailjs
+        .sendForm('service_n22n7an',
+        'template_c4upzhk',
+        refForm.current,
+        '-KuhGGpqv3F2fLSOK')
+      }
+    const contactArray=['C','o','n','t','a','c','t',' ','M','e']
+
+    return (
+        <>
+        <div className="container contact-page">
+            <div className='text-zone'>
+                <h1>
+                    <AnimatedLetters letterClass={letterClass} strArray={contactArray}  idx={15}/>
+                </h1>
+                <p className='para'>
+                    My Skill set is : C++ ,HTML,CSS,JS,REACT
+                    If you have question or request,don't hesitate 
+                    to contact me using below form either.
+                </p>
+
+                <div className='contact-form'>
+                
+                    <form ref={refForm} onSubmit={sendEmail}>
+                        <ul>
+                            <li className='half'>
+                                <input type="text" name="name" placeholder="Name" required />
+
+                            </li>
+                            <li className='half'>
+                                <input type="email" name="email" placeholder="Email" required />
+
+                            </li>
+                            <li>
+                                <input placeholder="Subject" type="text" name="subject"/>
+                            </li>
+                            <li>
+                                <textarea placeholder='Message' name="message" required></textarea>
+                            </li>
+                            <li>
+                                <input type="submit" className="flat-button" value="SEND"></input>
+                            </li>
+
+                        </ul>
+                    </form>
+                </div>
+            </div>
+
+            <div className="right">
+                <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+
+
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+
+             <div className='row'>
+                    <div>
+                    <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    
+
+                </div>
+             </div>
+
+             <div className='row'>
+                    <div>
+             <FontAwesomeIcon className ="i"icon={faGithub} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faUser} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHome} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDice} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faEnvelope} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faHackerrank} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faPaintRoller} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faLinkedin} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faKeyboard} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faGoogle} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMicrophone} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faRandom} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faReact} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAmazon} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faAddressBook} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faMusic} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faSoccerBall} color="#4d4d4e"/>
+                    <FontAwesomeIcon className ="i" icon={faDatabase} color="#4d4d4e"/>
+                    <FontAwesomeIcon  className ="i"icon={faHeart} color="#4d4d4e"/>
+                    </div>
+               </div>
+            </div>
+        </div>
+        <Loader type="pacman"></Loader>
+        </>
+
+    )
+}
+export default Contact
+// import './index.scss'
+// const AnimatedLetters = ({ letterClass, strArray, idx }) => {
+//     return (
+//       <>
+//       <span>
+//         {strArray.map((char, i) => (
+//           <span key={char + i} className={`${letterClass} _${i + idx}`}>
+//             {char}
+//           </span>
+//         ))}
+//       </span>
+//       </>
+//     )
+//   }
+// export default AnimatedLetters
+// import it in home component
+
+import './index.scss'
+
+const AnimatedLetters = ({ letterClass, strArray, idx }) => {
+  return (
+    <span>
+      {strArray.map((char, i) => (
+        <span key={char + i} className={`${letterClass} _${i + idx}`}>
+          {char}
+        </span>
+      ))}
+    </span>
+  )
+}
+import './index.scss';
+import { Link, NavLink } from 'react-router-dom';
+import LogoS from '../../assets/images/ad_logo.jpeg';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faDice, faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import {faGithub, faLinkedin} from '@fortawesome/free-brands-svg-icons';
+
+const Sidebar = () =>(
+    <div className='nav-bar'>
+        <Link className='logo' to='/'>
+            <img src={LogoS} alt="logo" />
+            <p className='name'>Aditi Mahabole</p>
+            {/* <h6>+91 8586810062</h6>
+            <h6>akmbole2002@gmail.com</h6> */}
+        </Link>
+        {/* 1 */}
+        <nav>
+            <NavLink exact="true" activeclassname="active" to="/index">
+                <FontAwesomeIcon icon={faHome} color="#022c43"/>
+            </NavLink>
+        </nav>
+        {/* 2 */}
+        <nav>
+            <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
+                <FontAwesomeIcon icon={faUser} color="#022c43"/>
+            </NavLink>
+        </nav>
+        {/* 3 */}
+        <nav>
+            <NavLink exact="true" activeclassname="active" className="skills-link"to="/skills">
+                <FontAwesomeIcon icon={faDice} color="#022c43"/>
+            </NavLink>
+        </nav>
+        <nav>
+            <NavLink exact="true" activeclassname="active" className="contact-link"to="/contact">
+                <FontAwesomeIcon icon={faEnvelope} color="#022c43"/>
+            </NavLink>
+        </nav>
+       
+        <ul>
+            <li style="--i:1">
+                <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/aditi-mahabole-89b4b61b8/'>
+                    <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e"/>
+                </a>
+            </li>
+            <li style="--i:1">
+                <a target='_blank' rel="noreferrer" href='https://github.com/aditimahabole/chunnubola'>
+                    <FontAwesomeIcon icon={faGithub} color="#4d4d4e"/>
+                </a>
+            </li>
+        </ul>
+    </div>
+)
+
+
+export default Sidebarimport './index.scss'
+import { useEffect, useState } from 'react'
+import AnimatedLetters from '../AnimatedLetters'
+import Lo from '../../assets/images/ava2.jpeg';
+
+  import Loader from 'react-loaders'
+
+
+const Skills = () => {
+
+    const [letterClass, setLetterClass] = useState('text-animate')
+
+    useEffect(() => {
+       setTimeout(() => {
+        setLetterClass('text-animate-hover')
+      }, 3000)
+    }, [])
+    const skillsArray=['S','k','i','l','l','s',' ','&',' ','E','x','p','e','r','i','e','n','c','e','s']
+    const skillsArrays=['P','r','o','j','e','c','t','s']
+
+    return(
+        <>
+        <div className='container skills-page'>
+            <div className='text-zone text1'>
+                <h1>
+                    <AnimatedLetters
+                    letterClass={letterClass}
+                     strArray={skillsArray} idx={10} />
+                </h1>
+                <div className='flip-card'>
+                    <div className='flip-card-inner'>
+                        <div className='flip-card-front'>
+                            <ul>
+                                <li>
+                                    <span className='text'>C|C++ : 85%</span>
+                                    <span className='percent1'></span>
+                                </li>
+                    <br/>
+                                <li>
+                                    <span className='text'>HTML|CSS|BOOTSTRAP : 90%</span>
+                                    <span className='percent2'></span>
+                                </li>
+                    <br/>
+                                <li>
+                                    <span className='text'>Python : 40%</span>
+                                    <span className='percent3'></span>
+                                </li>
+                    <br/>
+                                <li>
+                                    <span className='text'>REACT : 50%</span>
+                                    <span className='percent4'></span>
+                                </li>
+                    <br/>
+                                <li>
+                                    <span className='text'>MYSQL|PHP : 45%</span>
+                                    <span className='percent5'></span>
+                                </li>
+                    <br/>
+                                <li>
+                                    <span className='text'>BLENDER : 10%</span>
+                                    <span className='percent6'></span>
+                                </li>
+                             </ul>
+                        </div>
+
+                        <div class="flip-card-back">
+                            <img className='solid-logo' src={Lo} alt='S'></img>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className=' text2'>
+                <h1>
+                    <AnimatedLetters
+                    letterClass={letterClass}
+                     strArray={skillsArrays} idx={15} />
+                </h1>
+                <div className='flip-card'>
+                    <div className='flip-card-inner'>
+                        <div className='flip-card-front'>
+                            <ul>
+                                <li>
+                                <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/posts/activity-6742402224586145792-laFl?utm_source=linkedin_share&utm_medium=android_app'>PIANO-PROGRAM</a>
+                                 <p>Using C Language</p>
+                                </li>
+                                
+                                <li>
+                                <a  target='_blank' rel="noreferrer" href="https://github.com/aditimahabole/chunnubola/blob/master/TELE_DICE.py">TELE-DICE</a>
+                                 <p>Using Python Language inspired by Telegram emojis</p>
+                                </li>
+                                <li>
+                                <a target='_blank' rel="noreferrer"  href="https://github.com/manika-6303/projects/tree/main/RouteFinder">CAB_BOOKING_SYSTEM </a>
+                                 <p>Using HTML|CSS|PHP|MYSQL</p>
+                                </li>
+                               
+                                <li>
+                                <a target='_blank' rel="noreferrer"  href="https://github.com/aditimahabole/food.git">FOOD_WEBSITE</a>
+                                 <p>Using HTML CSS </p>
+                                </li>
+                               
+
+                                <li>
+                                <a target='_blank' rel="noreferrer"  href="https://github.com/manika-6303/projects/tree/main/RouteFinder">ROUTE_FINDER</a>
+                                 <p>Using C++ Floyd Warshall Algorithm and Job Scheduling</p>
+                                </li>
+                                <li>
+                                <a target='_blank' rel="noreferrer"  href="https://github.com/manika-6303/projects/tree/main/dictionary">DICTIONARY</a>
+                                 <p>Using C++ LinkList Data structure</p>
+                                </li>
+                                
+                                
+                             </ul>
+                        </div>
+
+                        {/* <div class="flip-card-back">
+                            <img className='solid-logo' src={Lo} alt='S'></img>
+                        </div> */}
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+        <Loader type="pacman" />
+
+        </>
+
+    )
+
+}
+export default Skills
+
+
+export default AnimatedLetters
+
