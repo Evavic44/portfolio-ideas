@@ -136,6 +136,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mike Bifulco          | ![mike-bifulco](https://user-images.githubusercontent.com/62628408/194711236-9e9cda7f-0611-4756-b237-ae122e355c75.png)                       | [mikebifulco.com](https://mikebifulco.com)                                         | [GitHub](https://github.com/mbifulco/blog)                               | NextJS, React, SCSS, MDX, Vercel                                                                  |
 | Shodipo Ayomide       | ![shodipo-ayomide](https://user-images.githubusercontent.com/62628408/194711642-0618e969-2672-4179-90ed-b5909e0bf665.png)                    | [shodipoayomide.com](https://shodipoayomide.com/)                                  | [GitHub](https://github.com/Developerayo/shodipoayomide.com)             | Gatsby, React, SCSS, Bootstrap, Jquery                                                            |
 | Damian Watracz        | ![damian](https://user-images.githubusercontent.com/62628408/194712470-98eec307-9b9c-4181-9167-2945b6362d5c.png)                             | [watracz.com](https://watracz.com/)                                                | None                                                                     | HTML, CSS, JavaScript, Swiper                                                                     |
+|Makdoom Shaikh           |  ![Makdoom](https://user-images.githubusercontent.com/28287599/194906540-33ebc238-8a8b-4ef2-b55e-862694aa013a.png)                | [makdoom.com](https://makdoomdotjs.netlify.app/)                                                   | [GitHub](https://github.com/makdoom/portfolio2.0)                           | Reactjs, Javascript, Typed.js,JQuery   
 
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
@@ -171,7 +172,10 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
   </tbody>
 </table>
 
-<!-- markdownlint-restore -->
+
+
+<!-- markdo![Uploading Makdoom.png…]()
+wnlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
