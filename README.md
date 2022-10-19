@@ -141,7 +141,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Rutik Wankhade        | ![rutik](https://user-images.githubusercontent.com/62628408/196155918-9068722c-875f-4016-ae89-37f63a4e6f1f.png)                              | [rutikwankhade.dev](https://rutikwankhade.dev/)                                    | None                                                                     | NextJs, React, NodeJS, TailwindCSS                                                                |
 | Adenekan Wonderful   | ![Home_Adenekan_Wonderful_Codewonders](https://user-images.githubusercontent.com/46662771/196423111-7b262df6-9ee8-4f2e-9de5-7eb2cd3e6ebe.png)    | [codewonders.dev](https://www.codewonders.dev/)                                           | None               | React, NextJS, Styled-components                                                                                   |
 | Olamide Sholanke  | ![Olamide_Sholanke_Frontend_Engineer](https://user-images.githubusercontent.com/46662771/196424318-5de568ff-73d1-48ad-9087-bc38c6fe234c.png)      | [olamide.dev](https://www.olamide.dev/)                                           | None                                               | Vue, NuxtJS                                                                            |
-
+| Daniel Ezekiel       | ![Daniel_Ezekiel_Software_Engineer](https://user-images.githubusercontent.com/46662771/196419585-4faaf914-3681-402f-8f31-a196b450d667.png)     | [danielezekiel.me](https://danielezekiel.me/)           |     [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website)                       | HTML, CSS, JavaScript                                                                |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
