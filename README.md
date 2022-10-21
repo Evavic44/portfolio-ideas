@@ -146,6 +146,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Rida F'kih   | ![Rida_F_kih_—_Developer_Designer](https://user-images.githubusercontent.com/46662771/196421935-3aea267a-eb74-4910-8c70-fd71d6d202ae.png)     | [rida.dev](https://www.rida.dev/)                 | [GitHub](https://github.com/ridafkih/portfolio)               | React, NextJS                                                                            |
 | Anand Baraik          | ![portfolio](https://user-images.githubusercontent.com/31516195/188324601-78b0b8d4-ddca-43f2-8d3e-a6ef0846e770.png)                          | [anandbaraik-folio.netlify.app](https://anandbaraik-folio.netlify.app/)            | [GitHub](https://github.com/anandbaraik/anandfolio)                      | HTML, CSS.                                                                                        |
 | Abhishek Jha |    ![Abhishek_Jha_—_Visual_Designer](https://user-images.githubusercontent.com/46662771/197171814-9902aa1a-8fc3-4ea0-9c5f-47f24bbec6e3.png)      | [abhishekjha.me](https://www.abhishekjha.me)                                 | None              | HTML, CSS, JavaScript, Ruby on Rails, GSAP                                                                          |
+| Olamide Adeyi | ![OLAMIDE_ADEYI_Product_Designer](https://user-images.githubusercontent.com/46662771/197175156-6886c1c5-97ac-4305-bd60-5e824389c6be.png)   | [olamideadeyi.com](https://www.olamideadeyi.com)                                           | None               | Vue, NuxtJS, GSAP                                                                         |
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
