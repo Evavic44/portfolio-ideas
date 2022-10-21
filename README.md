@@ -145,7 +145,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Julia_Johnson  | ![Julia_Johnson](https://user-images.githubusercontent.com/46662771/196426246-88b06dd2-4305-4785-b795-6c8482874a36.png)               | [juliacodes.com](https://www.juliacodes.com/)                                           | [GitHub](https://github.com/juliacodes/JuliaCodesGatsby)               | React, Styled-components                                                                          |
 | Rida F'kih   | ![Rida_F_kih_—_Developer_Designer](https://user-images.githubusercontent.com/46662771/196421935-3aea267a-eb74-4910-8c70-fd71d6d202ae.png)     | [rida.dev](https://www.rida.dev/)                 | [GitHub](https://github.com/ridafkih/portfolio)               | React, NextJS                                                                            |
 | Anand Baraik          | ![portfolio](https://user-images.githubusercontent.com/31516195/188324601-78b0b8d4-ddca-43f2-8d3e-a6ef0846e770.png)                          | [anandbaraik-folio.netlify.app](https://anandbaraik-folio.netlify.app/)            | [GitHub](https://github.com/anandbaraik/anandfolio)                      | HTML, CSS.                                                                                        |
-
+| Abhishek Jha |    ![Abhishek_Jha_—_Visual_Designer](https://user-images.githubusercontent.com/46662771/197171814-9902aa1a-8fc3-4ea0-9c5f-47f24bbec6e3.png)      | [abhishekjha.me](https://www.abhishekjha.me)                                 | None              | HTML, CSS, JavaScript, Ruby on Rails, GSAP                                                                          |
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
