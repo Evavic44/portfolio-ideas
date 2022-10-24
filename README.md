@@ -154,8 +154,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Cole_Solomon          | ![Cole_Solomon](https://user-images.githubusercontent.com/46662771/197168195-e906ca7f-d0d1-4a39-9c05-ce3f8d3631e5.png)                       | [colesolomon.me](https://colesolomon.me/)                                          | [GitHub](https://github.com/codecole/colesolomonme)                      | HTML, CSS, SASS, JavaScript, GSAP, W3js, PHP                                                      |
 | Adewale Adeyemi       | ![Adex](https://user-images.githubusercontent.com/113855742/197197913-12b81795-6e3b-411d-ad25-d6773124628f.png)                              | [adexdev.netlify.app](https://adexdev.netlify.app/)                                | [GitHub](https://github.com/dev-adewale/My-portfolio)                    | Gridsome, GraphQL, Tailwind.                                                                      |
 | Harsh Singh           | ![harsh-singh](https://user-images.githubusercontent.com/62628408/197406605-8e3f25c7-85df-461d-a7e6-679f2a1be425.png)                        | [harshsingh.xyz](https://harshsingh.xyz/)                                          | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io)             | NextJS, TailwindCSS, TypeScript, Prisma                                                           |                                                            
+| Wallace Nascimento           | ![SrNascimento40](https://user-images.githubusercontent.com/65576111/197592263-52847d1a-6d4b-4528-9a5d-d28395761f5c.png)                        | [portfolio-srnascimento40.vercel.app](https://portfolio-srnascimento40.vercel.app/)                                          | [GitHub](https://github.com/SrNascimento40/portfolio)             | NextJS, ReactJS, TypeScript, Styled-Components                                                           |                                                            
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
+
 
 ## Suggestions
 
