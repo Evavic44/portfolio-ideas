@@ -53,7 +53,7 @@ E.g `HTML, CSS, JavaScript`
 Now we are done adding all the portfolio information, preview the portfolio added and make sure it corresponds with the table, then raise a pull request.
 
 ## Need more help? 🤔
-If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/evavic44) and I'll answer ASAP. That's a promise 🤝🏽😊
+If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
 
 ## Sponsor
 Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
