@@ -161,6 +161,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Andrea Toffanello     | ![Andrea Toffanello portfolio](https://user-images.githubusercontent.com/53873209/200663072-b61f6f84-c482-45d1-9e60-85ab096aca8f.png)          | [andreatoffanello.com](https://andreatoffanello.com)                                           | None                                                                                   | VueJS, ThreeJS, GSAP, Blender
 | Chandraprakash Darji     | ![image](https://user-images.githubusercontent.com/93640141/201102466-189f51cb-f959-4645-920f-0b40d0ecc8a4.png)          | [chandraprakash.codes](https://www.chandraprakash.codes/) | [Github](https://github.com/Chandraprakash-Darji/personal-portoflio)  | Nextjs, Typescript, Tailwindcss, Vercel
 | Khaled Mohamed     | ![image](https://user-images.githubusercontent.com/73050798/201541801-81a752fb-c3c7-44fc-9526-002ccd2af7ca.png) | [John Doe](https://portfolio-john2.netlify.app/) | None  | HTML5, SCSS, Bootstrap5, JavaScript, SwipperJS, Netlify
+|Michael Kolesidis   | ![screenshot](https://user-images.githubusercontent.com/15524442/201610419-230433bb-2a0e-47e5-a78b-c212a0a07553.png) | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript, p5.js, Sass, Yarn |
+
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
