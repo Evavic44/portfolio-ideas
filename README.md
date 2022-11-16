@@ -162,6 +162,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Chandraprakash Darji     | ![image](https://user-images.githubusercontent.com/93640141/201102466-189f51cb-f959-4645-920f-0b40d0ecc8a4.png)          | [chandraprakash.codes](https://www.chandraprakash.codes/) | [Github](https://github.com/Chandraprakash-Darji/personal-portoflio)  | Nextjs, Typescript, Tailwindcss, Vercel
 | Khaled Mohamed     | ![image](https://user-images.githubusercontent.com/73050798/201541801-81a752fb-c3c7-44fc-9526-002ccd2af7ca.png) | [John Doe](https://portfolio-john2.netlify.app/) | None  | HTML5, SCSS, Bootstrap5, JavaScript, SwipperJS, Netlify
 |Michael Kolesidis   | ![screenshot](https://user-images.githubusercontent.com/15524442/201610419-230433bb-2a0e-47e5-a78b-c212a0a07553.png) | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript, p5.js, Sass, Yarn |
+| Piyush Goyani      | ![PiyushGoyaniPortfolio](https://user-images.githubusercontent.com/18528418/202102781-b1d7826f-d401-481b-afeb-d3d54f42ba7d.png) |  [piyushgoyani.thesourcepedia.org](https://piyushgoyani.thesourcepedia.org) | None | VueJS, Gridsome, TailwindCSS, Firebase |
 
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
