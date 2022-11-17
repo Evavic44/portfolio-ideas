@@ -9,6 +9,12 @@
   
 Read about how this project started: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
 
+<div align="center">
+<h2>📢 Announcement! 📢</h2>
+<p>We are hosting portfolio-ideas to an official site and we need your input on what color and logo to use.</p>
+<a href="https://github.com/Evavic44/portfolio-ideas/discussions/182">Vote Here</a>
+</div>
+
 ## Contribute
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
