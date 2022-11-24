@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Mono:regular,italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
+
+:root {
+  --vp-c-brand: #962dff;
+  --vp-c-brand-light: #972eff;
+  --vp-c-brand-lighter: rgba(162, 23, 255, 0.25);
+  --vp-c-brand-dark: #8612fa;
+  --vp-c-brand-darker: #7b0fe7;
+
+  --vp-c-sponsor: #fd1d7c;
+
+  /* Typography */
+  --vp-font-family-base: "Space Grotesk", "Inter var experimental", "Inter var",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+    Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+  /* Code Snippet font */
+  --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+
+  /* Navbar */
+  --vp-nav-height: var(--vp-nav-height-mobile);
+  --vp-nav-height-mobile: 56px;
+  --vp-nav-height-desktop: 82px;
+
+  /* Sidebar */
+  --vp-sidebar-width: 250px;
+}
+
+table td img {
+  width: 280px;
+}
+
+/* .VPImage.image-src {
+  width: 200px;
+} */
+
+.tagline {
+  font-size: 1.2rem !important;
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-nav-height: var(--vp-nav-height-desktop);
+  }
+}
