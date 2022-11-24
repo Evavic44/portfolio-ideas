@@ -8,7 +8,11 @@
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix:all": "prettier --write --ignore-path .gitignore .",
     "format:fix": "prettier --write",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "docs:dev": "vitepress dev docs &&",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "deploy": "cp README.md ./docs/portfolio.md"
   },
   "lint-staged": {
     "**/*.{md,ts,js,tsx,jsx}": [
@@ -38,5 +42,9 @@
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
   }
 }
