@@ -163,6 +163,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Vanessa Santana       | ![VanessaPortfolio](https://user-images.githubusercontent.com/52542645/202289197-bdc535a8-ebbf-4416-a997-21cdb73e9cee.png)                   | [nessajs.com.br](https://www.nessajs.com.br/)                                       | [GitHub](https://github.com/vanessa-dev/nessa.js)                        | HTML, CSS, JavaScript and PHP                                                                     |
 | Mahmoud Elkariouny    | ![protfolio_screenshot](https://user-images.githubusercontent.com/65455064/203590991-00b66db7-492d-46f4-980b-efbacb53a9fa.jpg)               | [clear-sleet.surge.sh](https://clear-sleet.surge.sh/)                               | [GitHub](https://github.com/mahmoudessam820/my_portfolio)                | HTML, CSS, JavaScript                                                                             |
 | Antonio Ayola    | ![portafolio Screenshot](https://user-images.githubusercontent.com/35477201/203847317-bf6f76f1-62f5-434b-9cdf-c4bf702eb001.jpg)               | [antonioayola.netlify.app](antonioayola.netlify.app)                               | [GitHub](https://github.com/Tono2007/Portafolio)                | React, HTML, CSS, Modules CSS, JavaScript, PWA                                                                             |
+| Ajo Alex    | ![portofolio Screenshot](https://user-images.githubusercontent.com/67946056/204500454-a8f4f10e-efd3-44ae-9f49-fa16106a8318.png) | [devpenzil.dev](https://devpenzil.dev/)                               | [GitHub](https://github.com/devpenzil/devpenzil.dev)                | NextJS, Tailwind, GraphCMS                                                                           |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
@@ -188,6 +189,7 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+
   <tbody>
     <tr>
       <td align="center"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
