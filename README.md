@@ -189,7 +189,6 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-
   <tbody>
     <tr>
       <td align="center"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
