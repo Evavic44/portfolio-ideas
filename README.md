@@ -169,6 +169,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Hari Prasad           | ![hariprasad-designer](https://user-images.githubusercontent.com/75234157/205496938-3ad80cff-037f-47fb-a853-810c9eda9cb7.png)               | [hariprasd.me](https://hariprasd.me)                                                | [GitHub](https://github.com/hariprasd)                                   | React, Tailwind CSS                                                                                |
 | Danilo Batson         | ![danilo-batson](https://user-images.githubusercontent.com/69876068/205551967-abc55adc-aae6-48c7-94cc-d9ed431c511a.png) | [batson-portfolio.vercel.app/](https://batson-portfolio.vercel.app/) | [GitHub](https://github.com/danilobatson/batson-portfolio) | TypeScript, JavaScript, Python, React, React Native, Vue, Express, Node, MongoDB, Next JS    
 | Soumyadeep Das Bhowmick         | ![portfolio-sdb](https://user-images.githubusercontent.com/115442240/207277461-686247d5-01e7-4be8-ad0f-109ec2a637b1.png) |  [soumyadeeposd.github.io]( https://soumyadeeposd.github.io/Tensor-Block/)                               | [GitHub](https://github.com/SoumyadeepOSD/Tensor-Block) | HTML, CSS, JavaScript
+| Umair Jibran         | ![Jibran Portfolio](https://user-images.githubusercontent.com/43789374/208252034-f7b54063-c553-4a80-8a5f-ec692f089ac0.jpeg) |  [umairjibran.com]( https://www.umairjibran.com/)                               | None | ReactJS, TailwindCSS, BootsrapCSS
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
