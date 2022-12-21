@@ -170,6 +170,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Danilo Batson         | ![danilo-batson](https://user-images.githubusercontent.com/69876068/205551967-abc55adc-aae6-48c7-94cc-d9ed431c511a.png) | [batson-portfolio.vercel.app/](https://batson-portfolio.vercel.app/) | [GitHub](https://github.com/danilobatson/batson-portfolio) | TypeScript, JavaScript, Python, React, React Native, Vue, Express, Node, MongoDB, Next JS    
 | Soumyadeep Das Bhowmick         | ![portfolio-sdb](https://user-images.githubusercontent.com/115442240/207277461-686247d5-01e7-4be8-ad0f-109ec2a637b1.png) |  [soumyadeeposd.github.io]( https://soumyadeeposd.github.io/Tensor-Block/)                               | [GitHub](https://github.com/SoumyadeepOSD/Tensor-Block) | HTML, CSS, JavaScript
 | Umair Jibran         | ![Jibran Portfolio](https://user-images.githubusercontent.com/43789374/208252034-f7b54063-c553-4a80-8a5f-ec692f089ac0.jpeg) |  [umairjibran.com]( https://www.umairjibran.com/)                               | None | ReactJS, TailwindCSS, BootsrapCSS
+| Byunggeun Cho         | ![portfolio-sdb](https://user-images.githubusercontent.com/51329156/208891221-6e4dbd09-06cb-4568-abc8-98128f6b1bca.png) |  [bbangjo.kr](https://bbangjo.kr)| [GitHub](https://github.com/bbangjooo/buffalo) | HTML, CSS, JavaScript, TypeScript, Threejs, Blender
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
