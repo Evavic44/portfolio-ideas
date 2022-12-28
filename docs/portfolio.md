@@ -14,7 +14,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:E                                                                                                                                                                                                                              ND -->
 
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
  
@@ -170,6 +170,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Danilo Batson           | ![danilo-batson](https://user-images.githubusercontent.com/69876068/205551967-abc55adc-aae6-48c7-94cc-d9ed431c511a.png)                      | [batson-portfolio.vercel.app/](https://batson-portfolio.vercel.app/)                | [GitHub](https://github.com/danilobatson/batson-portfolio)               | TypeScript, JavaScript, Python, React, React Native, Vue, Express, Node, MongoDB, Next JS         |
 | Soumyadeep Das Bhowmick | ![portfolio-sdb](https://user-images.githubusercontent.com/115442240/207277461-686247d5-01e7-4be8-ad0f-109ec2a637b1.png)                     | [soumyadeeposd.github.io](https://soumyadeeposd.github.io/Tensor-Block/)            | [GitHub](https://github.com/SoumyadeepOSD/Tensor-Block)                  | HTML, CSS, JavaScript                                                                             |
 | Umair Jibran            | ![Jibran Portfolio](https://user-images.githubusercontent.com/43789374/208252034-f7b54063-c553-4a80-8a5f-ec692f089ac0.jpeg)                  | [umairjibran.com](https://www.umairjibran.com/)                                     | None                                                                     | ReactJS, TailwindCSS, BootsrapCSS                                                                 |
+| Byunggeun Cho           | ![portfolio-sdb](https://user-images.githubusercontent.com/51329156/208891221-6e4dbd09-06cb-4568-abc8-98128f6b1bca.png)                      | [bbangjo.kr](https://bbangjo.kr)                                                    | [GitHub](https://github.com/bbangjooo/buffalo)                           | HTML, CSS, JavaScript, TypeScript, Threejs, Blender                                               |
+| James Warner            | ![james_warner](https://user-images.githubusercontent.com/62628408/209755001-3a603dcd-25bc-44b5-93a7-a5bc6cd44727.png)                       | [jmswrnr.com](https://jmswrnr.com/)                                                 | None                                                                     | NextJS, Sanity, CSS, Preact, NodeJS, ThreeJS                                                      |
+| Maxime Heckel           | ![maxime_heckel](https://user-images.githubusercontent.com/62628408/209755866-1407b7f2-bb47-44ec-8fe6-9ce92c84dcda.png)                      | [maximeheckel.com](https://maximeheckel.com/)                                       | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com)          | NextJS, TypeScript, Stiches/CSS, MDX                                                              |
+| Twan Mulder             | ![twan_mulder](https://user-images.githubusercontent.com/62628408/209756628-7c93082a-3567-4238-9d65-1ea810fa1f51.png)                        | [twanmulder.com](https://www.twanmulder.com/)                                       | [GitHub](https://github.com/twanmulder/portfolio)                        | React, TailwindCSS, Stripe, Netlify                                                               |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
