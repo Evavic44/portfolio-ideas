@@ -1,6 +1,8 @@
 name: Autodeploy
 run-name: Run the deploy command
-on: [push] 
+on:
+  push:
+    branches: [workflow/autodeploy]
 jobs:
   deployment:
     runs-on: ubuntu-latest
@@ -11,14 +13,15 @@ jobs:
         uses: actions/checkout@v3
         with: 
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-node@v3
+      - name: Setup Node & run npm commands 
+        uses: actions/setup-node@v3
         with: 
           node-version: '16'
       - run: npm install
       - run: npm run deploy
       - run: git status
-      - run: git config --global user.email "${{ github.actor }}@users.noreply.github.com"
       - run: git config --global user.name "${{ github.actor }}"
+      - run: git config --global user.email "${{ github.actor }}@users.noreply.github.com"
       - run: git add .
       - run: git commit -m "update deployed version"
       - run: git push
