@@ -20,6 +20,6 @@ jobs:
       - run: git config --global user.email "${{ github.actor }}@users.noreply.github.com"
       - run: git config --global user.name "${{ github.actor }}"
       - run: git add .
-      - run: git commit -m "update: deployed version"
+      - run: git commit -m "update deployed version"
       - run: git push
 
