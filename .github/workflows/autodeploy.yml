@@ -1,0 +1,28 @@
+name: Autodeploy
+run-name: Run the deploy command
+on:
+  push:
+    branches: [main]
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with: 
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Node & deploy 
+        uses: actions/setup-node@v3
+        with: 
+          node-version: '16'
+      - run: |
+          npm install
+          npm run deploy
+          git status
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: deploy site"
+          git push
