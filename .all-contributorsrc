@@ -46,6 +46,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "vimode",
+      "name": "vimode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39148877?v=4",
+      "profile": "https://github.com/vimode",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
