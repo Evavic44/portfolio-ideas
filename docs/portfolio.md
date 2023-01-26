@@ -11,9 +11,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 ## Contribute
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
@@ -211,10 +209,11 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
-      <td align="center"><a href="https://israelmitolu.netlify.app"><img src="https://avatars.githubusercontent.com/u/53873209?v=4?s=100" width="100px;" alt="Israel Mitolu"/><br /><sub><b>Israel Mitolu</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://piyushgoyani.thesourcepedia.org"><img src="https://avatars.githubusercontent.com/u/18528418?v=4?s=100" width="100px;" alt="Piyush Goyani"/><br /><sub><b>Piyush Goyani</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://frankiefab.com"><img src="https://avatars.githubusercontent.com/u/46662771?v=4?s=100" width="100px;" alt="Franklin Ohaegbulam"/><br /><sub><b>Franklin Ohaegbulam</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://israelmitolu.netlify.app"><img src="https://avatars.githubusercontent.com/u/53873209?v=4?s=100" width="100px;" alt="Israel Mitolu"/><br /><sub><b>Israel Mitolu</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://piyushgoyani.thesourcepedia.org"><img src="https://avatars.githubusercontent.com/u/18528418?v=4?s=100" width="100px;" alt="Piyush Goyani"/><br /><sub><b>Piyush Goyani</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://frankiefab.com"><img src="https://avatars.githubusercontent.com/u/46662771?v=4?s=100" width="100px;" alt="Franklin Ohaegbulam"/><br /><sub><b>Franklin Ohaegbulam</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vimode"><img src="https://avatars.githubusercontent.com/u/39148877?v=4?s=100" width="100px;" alt="vimode"/><br /><sub><b>vimode</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
