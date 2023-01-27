@@ -12,7 +12,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -184,6 +184,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Adham Dannaway          | ![adhamdannaway-screenshot](https://user-images.githubusercontent.com/53873209/212376608-1647044c-3caa-48b7-b131-3407afc144ed.png)                                        | [adhamdannaway.com](https://www.adhamdannaway.com/)                                 | None                                                                     | Wordpress, PHP, jQuery, MySQL                                                                     |
 | Khaled Mohamed          | ![Web capture_13-1-2023_22027_james-oliver-portfolio netlify app](https://user-images.githubusercontent.com/73050798/212409001-0bea2f47-3a9a-4cb9-9984-1940d216af5c.jpeg) | [James Oliver](https://james-oliver-portfolio.netlify.app/)                         | None                                                                     | HTML5, CSS3, SCSS, Bootstrap5, TypeScript, SwipperJS, Fontello, PurgeCSS, Netlify                 |
 | Glayson Visgueira       | ![glayson](https://user-images.githubusercontent.com/62628408/213310609-ff768322-2d69-45fc-864b-e2f0a50aa749.png)                                                         | [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/)                 | [GitHub](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js)   | NextJS, Styled-components, NodeJS, Vercel, Animate.css, Lottiefiles                               |
+| Chai Phonbopit          | ![add-ahoy](https://user-images.githubusercontent.com/62628408/214586571-d915e4ec-6f5c-4b2b-a554-b444b3eed04f.png)                                                        | [devahoy.com](https://devahoy.com/)                                                 | None                                                                     | NextJS, Preact, Tailwind CSS, NodeJS                                                              |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
