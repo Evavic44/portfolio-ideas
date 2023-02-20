@@ -198,7 +198,11 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Theodorus Clarence      | ![clarence theodorus screenshot](https://user-images.githubusercontent.com/53873209/219413309-8a34a630-9834-4f35-b973-c3c947ccede2.png)                                   | [theodorusclarence.com](https://theodorusclarence.com/)                             | [Github](https://github.com/theodorusclarence/theodorusclarence.com)     | NextJS, TypeScript, Tailwind CSS, MDX Bundler, Prisma                                                          |
 | Arafat Islam            | ![arafat islam screenshot](https://user-images.githubusercontent.com/53873209/219415220-e937b428-af9c-4371-842a-89e59ffd26ee.png)                                         | [portfolio-khaki-iota-89.vercel.app](https://portfolio-khaki-iota-89.vercel.app/)   | [Github](https://github.com/arafat4693/portfolio)                        | NextJS, TypeScript, GraphQL, Tailwind CSS                                                                      |
 | Abo Ghanbari            | ![abo ghanbari screenshot](https://user-images.githubusercontent.com/53873209/219416647-1e3976ab-2675-4f53-acff-5021e04906bb.png)                                         | [aboghanbari.com](https://www.aboghanbari.com/)                                     | None                                                                     | Gatsby, Emotion, GSAP, Preact                                                                                  |                             
-                 
+| Siddharth Verma         | ![sidharthviz](https://user-images.githubusercontent.com/74046564/220126823-63f205ae-db7c-4381-ad9a-f2d818b4f15e.png)
+                                                          | [https://iamdev.netlify.app/home.html](https://iamdev.netlify.app/home.html).       | [Github]
+                                                          
+(https://github.com/sidharthviz/Portfolio-sid)                  | Tailwind, Javascript, React, html/CSS
+                       |
 
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
