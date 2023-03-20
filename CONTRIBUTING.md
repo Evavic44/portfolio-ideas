@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Contribution Guidelines 🙌</h1>
+  <h1>Contribution Guidelines</h1>
   This documentation contains a set of guidelines to help you during the contribution process of this project.
 </div>
 <br>
@@ -18,7 +18,11 @@ The portfolio examples are enclosed between two comments:
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
-To add a portfolio, you can either create a new table or copy an already existing table and edit it, your choice.
+To add a portfolio, you can either create a new table or copy an already existing table at the bottom of the list and edit it, your choice.
+
+> **Warning**
+> 
+> DISCLAIMER: ⚠️Portfolios should be added at bottom of the list.
 
 ## Step 3. Add Portfolio Details
 In the new table, start each column with a `|` symbol followed by the column content:
@@ -34,8 +38,13 @@ Take a screenshot of the homepage of the portfolio website, drag it and drop it 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650495714252/NSLTPxLxe.gif" width="800px">
 
 ### ⚡Live URL
-Add the live link to the portfolio website. **PS: Omit the https://**
-![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif)
+Add the live link to the portfolio website. PS: Omit the `https://` protocol on the link text.
+Example:
+
+```
+[victoreke.com](https://victoreke.com)
+```
+<!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
 
 ### ⚡Repo
 If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
