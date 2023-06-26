@@ -260,9 +260,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Brian Lovin             | ![Brian Lovin portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/343a246e-625b-4bb4-b637-5d905ce8d5cc)                                                | [brianlovin.com](https://brianlovin.com/)                                           | [Github](https://github.com/brianlovin/briOS)                            | NextJS, TypeScript, Tailwind CSS, Prisma, Planetscale                                                          |
 | Pritish Samal           | ![Pritish Samal portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/5d0aac86-0fbc-46ac-8020-655b2f60b544)                                              | [pritishsamal.com](https://pritishsamal.com/)                                       | [Github](https://github.com/CIPHERTron/portfolio-v2)                     | Next.js, TypeScript, Emotion, Chakra UI                                                                        |
 | Sandeep Kumar           | ![Sandeep Kumar portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/5a58f6df-2240-42ca-b5d5-b96f0d0180fd)                                              | [eternalfrustation.github.io](https://eternalfrustation.github.io/)                 | [Github](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML, CSS, JavaScript                                                                                        |
-
-
-
+| Mike Liu                | ![Mike Liu portfolio](https://github.com/mikeliuu/portfolio-ideas/assets/62628408/58e8d844-6532-4d73-9627-336fc2a01bbb)                                                   | [mikeliuu.com](https://mikeliuu.com)                                                | [Github](https://github.com/mikeliuu/mikeliuu.com)                       | NextJS, TypeScript, Tailwind CSS, HTML, CSS, Vercel                                                            |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
