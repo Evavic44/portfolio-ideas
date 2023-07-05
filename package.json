@@ -41,7 +41,7 @@
   "devDependencies": {
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.0"
   },
   "dependencies": {
     "vitepress": "^1.0.0-alpha.29",
