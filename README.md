@@ -12,7 +12,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/github/all-contributors/Evavic44/portfolio-ideas?style=flat-square&color=%23EE8449)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -262,7 +262,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sandeep Kumar           | ![Sandeep Kumar portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/5a58f6df-2240-42ca-b5d5-b96f0d0180fd)                                              | [eternalfrustation.github.io](https://eternalfrustation.github.io/)                 | [Github](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML, CSS, JavaScript                                                                                        |
 | Mike Liu                | ![Mike Liu portfolio](https://github.com/mikeliuu/portfolio-ideas/assets/62628408/58e8d844-6532-4d73-9627-336fc2a01bbb)                                                   | [mikeliuu.com](https://mikeliuu.com)                                                | [Github](https://github.com/mikeliuu/mikeliuu.com)                       | NextJS, TypeScript, Tailwind CSS, HTML, CSS, Vercel                                                            |
 | Bryan Smith             | ![personal](https://github.com/multikitty/portfolio-ideas/assets/124760226/01f1ef98-e12c-4a96-9858-4f8d51197bb1)                                                          | [multikitty.onrender.com](https://multikitty.onrender.com)                          | [Github](https://github.com/multikitty/multikitty.github.io)             | HTML, CSS, JavaScript                                                                                          |
-| Zai Santillan           | ![Zai Santillan Portfolio](https://github.com/plskz/plskz.me/assets/57343545/d56d0b98-9d24-49d4-a35f-a1549b282fb7)                  | [plskz-me.vercel.app](https://plskz-me.vercel.app/)               | [Github](https://github.com/plskz/plskz.me)             | NextJS, TypeScript, Tailwind CSS, DaisyUI |
+| Goodness Urama          | ![Goodness -- Frontend Developer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d492f655-73eb-4872-867e-b34e3661e558)                                       | [goodie.work](https://www.goodie.work/)                                             | [Github](https://github.com/GoodyBoy301/goodie.work)                     | Pug, SCSS, Javascript ThreeJS, GSAP, Vercel                                                                    |
+| Zai Santillan           | ![Zai Santillan Portfolio](https://github.com/plskz/portfolio-ideas/assets/57343545/4103d08e-5bf9-43a5-a9fa-ce71a23dd213)                  | [plskz-me.vercel.app](https://plskz-me.vercel.app/)               | [Github](https://github.com/plskz/plskz.me)             | NextJS, TypeScript, Tailwind CSS, DaisyUI |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
