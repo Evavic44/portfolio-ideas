@@ -12,7 +12,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/github/all-contributors/Evavic44/portfolio-ideas?style=flat-square&color=%23EE8449)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
