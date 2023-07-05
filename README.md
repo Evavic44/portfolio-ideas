@@ -265,6 +265,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Goodness Urama          | ![Goodness -- Frontend Developer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d492f655-73eb-4872-867e-b34e3661e558)                                       | [goodie.work](https://www.goodie.work/)                                             | [Github](https://github.com/GoodyBoy301/goodie.work)                     | Pug, SCSS, Javascript ThreeJS, GSAP, Vercel                                                                    |
 | Zai Santillan           | ![Zai Santillan Portfolio](https://github.com/plskz/portfolio-ideas/assets/57343545/4103d08e-5bf9-43a5-a9fa-ce71a23dd213)                  | [plskz-me.vercel.app](https://plskz-me.vercel.app/)               | [Github](https://github.com/plskz/plskz.me)             | NextJS, TypeScript, Tailwind CSS, DaisyUI |
 
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
