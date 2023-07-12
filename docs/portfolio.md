@@ -264,7 +264,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Bryan Smith             | ![personal](https://github.com/multikitty/portfolio-ideas/assets/124760226/01f1ef98-e12c-4a96-9858-4f8d51197bb1)                                                          | [multikitty.onrender.com](https://multikitty.onrender.com)                          | [Github](https://github.com/multikitty/multikitty.github.io)             | HTML, CSS, JavaScript                                                                                          |
 | Goodness Urama          | ![Goodness -- Frontend Developer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d492f655-73eb-4872-867e-b34e3661e558)                                       | [goodie.work](https://www.goodie.work/)                                             | [Github](https://github.com/GoodyBoy301/goodie.work)                     | Pug, SCSS, Javascript ThreeJS, GSAP, Vercel                                                                    |
 | Zai Santillan           | ![Zai Santillan Portfolio](https://github.com/plskz/portfolio-ideas/assets/57343545/4103d08e-5bf9-43a5-a9fa-ce71a23dd213)                  | [plskz-me.vercel.app](https://plskz-me.vercel.app/)               | [Github](https://github.com/plskz/plskz.me)             | NextJS, TypeScript, Tailwind CSS, DaisyUI |
-
+| Ashutosh Hathidara      | ![Ashutosh Hathidara Portfolio](https://iili.io/HsLAPxS.png)                  | [ashutoshhathidara.com](https://ashutoshhathidara.com/#/)               | [Github](https://github.com/ashutosh1919/masterPortfolio)             | HTML5, CSS3, React, NextJS, |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
