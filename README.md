@@ -272,10 +272,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Shubh Porwal            | ![Shubh Porwal portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/767d8333-d3a1-4d77-bb7f-c280fad725e2)                                               | [shubhporwal.me](https://www.shubhporwal.me/)                                       | [Github](https://github.com/shubh73/devfolio)                            | NextJS, ReactJS, Tailwind CSS, GSAP                                                                            |
 | Ross Moody              | ![Ross Moody portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/7e3433b9-ea01-49dc-b425-80aeead6020e)                                                 | [rossmoody.com](https://rossmoody.com/)                                             | [Github](https://github.com/rossmoody/rossmoody.com)                     | Next.js, Chakra UI, TypeScript, MDX, Netlify                                                                   |
 | Rémy Beumier            | ![Rémy Beumier Front-end Developer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/edac77d4-f8a1-4eee-a5ee-7d4d1b2e77fa)                                     | [remybeumier.be](https://remybeumier.be/)                                           | [Github](https://github.com/beumsk/beumsk.github.io)                     | Next.js, Sass, MDX, AOS                                                                                        |
-
-
-
-
+| Anirban Das             | ![Anirban Das - Full_stack Developer & UX Designer](https://github.com/anirban12d/portfolio-ideas/assets/72315775/2425a53b-4888-495a-94b5-aca1c0064b53) | [anirbandas.in](https://www.anirbandas.in/) | [Github](https://github.com/anirban12d/portfolio-2023)   | Qwik, React, Tailwind CSS                                                                |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
