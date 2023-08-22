@@ -1,3 +1,4 @@
+
 ![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
 
 <div>
@@ -276,8 +277,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Rafael Santana          | ![Rafael Santana-screenshot](https://github.com/Evavic44/portfolio-ideas/assets/53873209/2012a0e7-39b8-4b0e-8b60-238d0adbe70a)                                            | [rafaelsantana.dev](https://www.rafaelsantana.dev/)                                 | [Github](https://github.com/rafalmeida73/portfolio)                        | Next.js, Material UI, TypeScript                                                                               |
 | Apoorv Maurya           | ![Apoorv Maurya Portfolio](https://iili.io/HZQmPrg.png)                                                                                                                   | [LivePortfolio](https://apoorv.onrender.com)                                        | [Github](https://github.com/apoorvmaurya/portfolio)                        | HTML, CSS, JavaScript,                                                                                         |
 | Sumonta Saha Mridul     | ![sumonta](https://github.com/Sumonta056/portfolio-ideas/assets/61287791/6d35e046-87a0-45d3-84bd-7bcef01457c4)                                                            | [sumonta056.github.io](https://sumonta056.github.io/)                               | [Github](https://github.com/Sumonta056/sumonta056.github.io)               | HTML5, CSS3, JavaScript                                                                                        |
-| Daniel Coyula           | ![daniel-coyula](https://github.com/Evavic44/portfolio-ideas/assets/62628408/9c699df8-ce14-424d-9487-89e669e04470)                                                        | [portfolio.dctech.dev](https://portfolio.dctech.dev/)                               | None                                                                       | Flutter                                                                                                        |
+| Daniel Coyula           | ![daniel-coyula](https://github.com/Evavic44/portfolio-ideas/assets/62628408/9c699df8-ce14-424d-9487-89e669e04470)                                                        | [portfolio.dctech.dev](https://portfolio.dctech.dev/)                               | None                                                                       | Flutter                                        
+| Shaan Alam           | ![Shaan Alam](https://github.com/Evavic44/portfolio-ideas/assets/48273777/3bad2960-691a-4e17-bdd4-cc23420ee616)                                                        | [shaanalam.vercel.app](https://shaanalam.vercel.app)                               | [GitHub](https://github.com/shaan-alam/shaanalam)                                                                       | NextJS, Tailwind, TypeScript & Hygraph
 
+                                                                                                                         
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
