@@ -279,7 +279,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sumonta Saha Mridul     | ![sumonta](https://github.com/Sumonta056/portfolio-ideas/assets/61287791/6d35e046-87a0-45d3-84bd-7bcef01457c4)                                                            | [sumonta056.github.io](https://sumonta056.github.io/)                               | [Github](https://github.com/Sumonta056/sumonta056.github.io)               | HTML5, CSS3, JavaScript                                                                                        |
 | Daniel Coyula           | ![daniel-coyula](https://github.com/Evavic44/portfolio-ideas/assets/62628408/9c699df8-ce14-424d-9487-89e669e04470)                                                        | [portfolio.dctech.dev](https://portfolio.dctech.dev/)                               | None                                                                       | Flutter                                                                                                        |
 | Shaan Alam              | ![Shaan Alam](https://github.com/Evavic44/portfolio-ideas/assets/48273777/3bad2960-691a-4e17-bdd4-cc23420ee616)                                                           | [shaanalam.vercel.app](https://shaanalam.vercel.app)                                | [GitHub](https://github.com/shaan-alam/shaanalam)                          | NextJS, Tailwind, TypeScript & Hygraph                                                                         |
-                                                                                                                         
+| Gregory Koberger        | ![Gregory Koberger](https://github.com/Evavic44/portfolio-ideas/assets/53873209/00d7480e-215d-4bb4-b908-9640bb0d4066)                                                     | [gkoberger.com](https://gkoberger.com/)                                             | None                                                                       | VueJS, GSAP, NodeJS, Express                                                                                   |
+
+
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
