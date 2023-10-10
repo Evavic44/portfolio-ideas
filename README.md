@@ -283,7 +283,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Kehinde Omopariola      | ![Pariola - Creative Frontend Engineer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/26b59251-71ba-483a-9d52-b7676785f502)                                 | [pariola.dev](https://www.pariola.dev)                                              | [Github](https://github.com/Pariola-droid/pariola-v2.2.0)                  | NextJS, Typescript, SASS, Motion One                                                                           |
 | Shivam Gupta      | ![Shivam's portfolio](https://github.com/Evavic44/portfolio-ideas/assets/109647722/6e85696e-5729-48a9-a7db-bd849d6e2a8c)                                                       | [the-shivam-gupta.github.io](https://the-shivam-gupta.github.io/)                                | [Github](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io)      | HTML, CSS, JS
 | Mateus Felipe Gonçalves | ![mateusf com screenshot](https://github.com/Evavic44/portfolio-ideas/assets/40613276/bba433e4-0de3-432c-9d62-2184ee090661) | [mateusf.com](https://mateusf.com) | [Github](https://github.com/mateusfg7/mateusf.com) | Next.js, Typescript, Tailwindcss, Giscus, Contentlayer & MDX
-| Anubhav Sigdel | | ![Anubhav's portfolio](https://github.com/asigdel29/portfolio-ideas/assets/64096825/optimized-image-link.png) | | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | | [GitHub](https://github.com/asigdel29/portfolio) | 
+| Anubhav Sigdel | | ![Anubhav's portfolio](https://github.com/asigdel29/portfolio-ideas/assets/64096825/c13fc47d-e691-463d-8936-632e0af9baf9)
+] | | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | | [GitHub](https://github.com/asigdel29/portfolio) | HTML, CSS, JS
 
 
 
