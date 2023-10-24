@@ -288,7 +288,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Krish Depani            | ![Krish-PortFolio](https://github.com/Krish-Depani/portfolio-ideas/assets/72994417/d7790172-3d17-4fdb-8e52-2ec5daed7c3c)                                                  | [krish-depani.vercel.app](https://krish-depani.vercel.app/)                         | [GitHub](https://github.com/Krish-Depani/Portfolio-Website)                | HTML & CSS                                                                                                     |
 | Bona Brian Siagian      | ![bonabrian com](https://github.com/Evavic44/portfolio-ideas/assets/14372275/4a43c677-feaf-42e1-a606-b4b5aef7e1c2)                                                        | [bonabrian.com](https://bonabrian.com)                                              | [GitHub](https://github.com/bonabrian/bonabrian.com)                       | Typescript, NextJs, TailwindCSS, Prisma, Contentlayer                                                          |
 | SofiDev                 | ![SofiDev](https://github.com/SofiDevO/portfolio-ideas/assets/102200061/542c38b3-544d-470e-9cc2-727816b45679)                                                             | [itssofi.dev](https://itssofi.dev/)                                                 | [GitHub](https://github.com/SofiDevO/portafolio-sofidev)                   | HTML, CSS, Javascript                                                                                          |
-
+| Sadee                   | ![vCard-Personal-Portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d63c7678-8a69-414a-95a9-05d59d76d231)                                             | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [Github](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript                                                                       |
 
 
 
@@ -303,7 +303,7 @@ Do you have any portfolio you want to see added but you can't add it yourself? J
 
 ## Sponsor
 
-As you build your portfolio we hope you get that job or achiveve what you want with it. Don't forget to star this project if you find it helpful.
+As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
 If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
 
 <a href="https://buymeacoffee.com/evavic44">
