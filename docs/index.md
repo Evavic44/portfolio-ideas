@@ -4,9 +4,9 @@ layout: home
 # Hero section
 hero:
   name: Portfolio Ideas
-  # text: Repository of portfolio Inspiration
+  text: Repository of portfolio Inspiration
   image:
-    src: /Megaphone.png
+    src: /header.png
     alt: Portfolio-ideas logo
   tagline: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from.
   actions:
@@ -45,7 +45,7 @@ head:
       content: https://user-images.githubusercontent.com/62628408/203779311-949cf214-92a7-4900-b997-55595fd12316.png
   - - meta
     - property: og:url
-      content: https://vitejs.dev/blog/announcing-vite3
+      content: https://portfolio-ideas.vercel.app
   - - meta
     - name: title
       content: Portfolio-ideas

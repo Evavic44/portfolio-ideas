@@ -2,8 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
 
 :root {
-  --vp-c-brand: #962dff;
-  --vp-c-brand-light: #972eff;
+  --vp-c-brand: #a752fc;
+  --vp-c-brand-light: #a040ff;
   --vp-c-brand-lighter: rgba(162, 23, 255, 0.25);
   --vp-c-brand-dark: #8612fa;
   --vp-c-brand-darker: #7b0fe7;
