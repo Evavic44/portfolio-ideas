@@ -291,9 +291,15 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sadee                   | ![vCard-Personal-Portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d63c7678-8a69-414a-95a9-05d59d76d231)                                             | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [Github](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript                                                                       |
 | Emmanuel Nsikan-david   | ![nsikandavid.dev screenshot](https://iili.io/Jq54yTF.png)                                                                                                                | [nsikandavid.dev](https://nsikandavid.dev)                                          | None                                                                       | ReactJS, CSS                                                                                                   |
 | Cruip                   | ![cruip-portfolio](https://github.com/Evavic44/portfolio-ideas/assets/62628408/11ba04d1-5562-464c-aa80-3089902dc9c7)                                                      | [preview.cruip.com](https://preview.cruip.com/devspace/)                            | None                                                                       | Alpine.JS, Tailwind CSS, Chartjs                                                                               |
-| Skifli                   | ![skifli Portfolio](https://github.com/skifli/portfolio-ideas/assets/121291719/3f7ca457-b9ff-4594-a264-4c4e83d19a25)                                                     | [skifli.github.io](https://skifli.github.io/)                                       | [GitHub](https://github.com/skifli/skifli.github.io)                       | HTML, CSS, JavaScript                                                                                          |
+| Dev Khandelwal          | ![devfolio](https://github.com/Evavic44/portfolio-ideas/assets/122960451/1c885444-a588-4ed1-87ab-19e4bb6c05ab)                                                            | [slyro.vercel.app](https://slyro.vercel.app/)                                       | [GitHub](https://github.com/khandelwaldev/dev)                             | Next.JS, Tailwind CSS, MDX                                                                                     |
+| Skifli                  | ![skifli Portfolio](https://github.com/skifli/portfolio-ideas/assets/121291719/3f7ca457-b9ff-4594-a264-4c4e83d19a25)                                                      | [skifli.github.io](https://skifli.github.io/)                                       | [GitHub](https://github.com/skifli/skifli.github.io)                       | HTML, CSS, JavaScript                                                                                          |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === --> 
+
+
+
+
+
 
 ## Suggestions
 
