@@ -291,13 +291,19 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sadee                   | ![vCard-Personal-Portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d63c7678-8a69-414a-95a9-05d59d76d231)                                             | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [Github](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript                                                                       |
 | Emmanuel Nsikan-david   | ![nsikandavid.dev screenshot](https://iili.io/Jq54yTF.png)                                                                                                                | [nsikandavid.dev](https://nsikandavid.dev)                                          | None                                                                       | ReactJS, CSS                                                                                                   |
 | Cruip                   | ![cruip-portfolio](https://github.com/Evavic44/portfolio-ideas/assets/62628408/11ba04d1-5562-464c-aa80-3089902dc9c7)                                                      | [preview.cruip.com](https://preview.cruip.com/devspace/)                            | None                                                                       | Alpine.JS, Tailwind CSS, Chartjs                                                                               |
+| Dev Khandelwal          | ![devfolio](https://github.com/Evavic44/portfolio-ideas/assets/122960451/1c885444-a588-4ed1-87ab-19e4bb6c05ab)                                                            | [slyro.vercel.app](https://slyro.vercel.app/)                                       | [GitHub](https://github.com/khandelwaldev/dev)                             | Next.JS, Tailwind CSS, MDX                                                                                     |
+| Skifli                  | ![Skifli portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/c0e4d617-3285-4ae5-bc8e-ec73b007a00f)                                                     | [skifli.github.io](https://skifli.github.io/)                                       | [GitHub](https://github.com/skifli/skifli.github.io)                       | HTML, CSS, JavaScript                                                                                          |
+| Eva Decker              | ![Eva Decker Portfolio](https://github.com/Evavic44/portfolio-ideas/assets/4117920/466f86cd-ae24-454f-924b-5af6d419b5f6)                                                  | [evadecker.com](https://evadecker.com)                                              | [GitHub](https://github.com/evadecker/evadecker.com)                       | Astro, React, TypeScript, Framer Motion                                                                        |
+| Guglielmo Cerri         | ![website](https://github.com/GuglielmoCerri/portfolio-ideas/assets/37338058/56078f4b-3f3e-4f15-b6cf-9c67fe825c9f)                                                        | [guglielmocerri.github.io](https://guglielmocerri.github.io)                        | [GitHub](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io)       | HTML, CSS, JavaScript, reCAPTCHA                                                                               |
+| Wisnu Wicaksono         | ![Wiscaksono portfolio](https://github.com/Evavic44/portfolio-ideas/assets/53873209/462f6725-9c96-4d0f-be1c-ce27d9c782ad)                                                 | [wiscaksono.com](https://wiscaksono.com/)                                           | [GitHub](https://github.com/wiscaksono/wiscaksono-site)                    | Nextjs, Tailwind CSS, MDX, Next Auth                                                                           | 
+
+
+<!-- === ⭐ PORTFOLIO LINE END ⭐ === --> 
 
 
 
 
 
-
-<!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
 
