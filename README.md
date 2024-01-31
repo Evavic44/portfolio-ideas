@@ -19,7 +19,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
 <br>
- 
 
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
 
@@ -307,7 +306,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Hanaia Youcef           | ![poysa_portfolio](https://github.com/Evavic44/portfolio-ideas/assets/96303710/09a844b7-ec18-4ce7-97b9-a9fa17a6f4d2)                                                      | [poysa213.me](https://poysa213.me/)                                                 | [GitHub](https://github.com/poysa213/portfolio)                            | Typescript, NextJS, TailwindCSS, Framer Motion                                                                 |
 | Jaber Said              | ![jaber](https://github.com/Jaber-Saed/portfolio-ideas/assets/92320333/840a4a26-325f-44ca-b6b6-01c348f046b1)                                                              | [jaberdev.com](https://jaberdev.com)                                                | [GitHub](https://github.com/Jaber-Saed/3d-protfoluo)                       | React JS, Tailwind CSS, Three JS                                                                               |
 | Xiaohan Zou             | ![light=portfolio-compressed](https://github.com/RahulKRaj7/portfolio-ideas/assets/113328473/689fec1a-dd19-42d5-986c-965a8893d9cd)                                        | [portfolio.zxh.io](https://portfolio.zxh.io)                                                | [GitHub](https://github.com/Renovamen/playground-macos)                       | React JS, Zustand, UnoCSS, Typescript, Vite                                                                               |
-
+| Manh Hung Dao           | ![age-of-23.vercel.app](https://github.com/Evavic44/portfolio-ideas/assets/81293286/c5993193-de95-4289-bba6-ba47e30a9c7f)                                                 | [age-of-23.vercel](https://age-of-23.vercel.app/)                                   | [GitHub](https://github.com/mahhung12/AgeOf23)                             | Nextjs, MDX, Tailwind CSS, TypeScript, JavaScript                                                          |
 
 
 
