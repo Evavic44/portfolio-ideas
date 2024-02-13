@@ -78,7 +78,7 @@ If you need any adittional guide or help with any issues, feel free to contact m
 
 Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
 
-<a href="https://www.buymeacoffee.com/evavic44">
+<a href="https://www.buymeacoffee.com/victoreke">
  <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
 </a>
 
