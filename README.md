@@ -1,4 +1,4 @@
-![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
+![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
