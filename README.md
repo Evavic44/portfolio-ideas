@@ -1,4 +1,4 @@
-![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
+<img width="1581" alt="Screenshot 2024-02-23 at 8 30 51 PM" src="https://github.com/sunidhi014/portfolio-ideas/assets/96500508/283869a3-a39e-4f5a-8a05-16d2c2fc4fa4">![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
@@ -312,7 +312,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Jam Moonbami            | ![moonbamiofficial vercel app](https://github.com/MoonbamiOfficial/portfolio-ideas/assets/141120384/58309b01-c878-4f23-ac7c-d6560c80fc52)                                 | [moonbamiofficial.vercel.app](https://moonbamiofficial.vercel.app)                                            | [GitHub](https://github.com/MoonbamiOfficial/dev-portfolio)                | Next.js, Node.js, React, Tailwind CSS, MongoDB, Vercel                                                         |
 | Asharib Ali             | ![cv](https://github.com/Evavic44/portfolio-ideas/assets/102221198/c08ac4bc-f5d9-4115-89c9-e31f244428e2)                                                                  | [cv.asharib.xyz](https://cv.asharib.xyz/)                                                                     | [GitHub](https://github.com/AsharibAli/cv)                                 | Next.js, React, Typescript, Shadcn/ui, Tailwind CSS, Vercel                                                    |
 | MAHG |![MAHG V2 - Portfolio](https://github.com/mahg0899/portfolio-ideas/assets/46274461/dfcd679a-924a-4a96-b513-a374790ff8ab) | [mahg.me](https://mahg.me) | [GitHub](https://github.com/mahg0899/mahgv2) | NextJS, React, Typescript, TailwindCSS, Vercel
-
+| Sunidhi Singh |![Sunidhi - Portfolio](https://github.com/sunidhi014/portfolio-ideas/assets/96500508/bb5fd081-776f-4586-8288-64c5beef5b43) | [sunidhi-singh.netlify.app](https://sunidhi-singh.netlify.app/) | [GitHub](https://github.com/sunidhi014) | HTML, CSS, JavaScript 
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
