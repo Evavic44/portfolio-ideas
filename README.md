@@ -1,4 +1,4 @@
-<img width="1581" alt="Screenshot 2024-02-23 at 8 30 51 PM" src="https://github.com/sunidhi014/portfolio-ideas/assets/96500508/283869a3-a39e-4f5a-8a05-16d2c2fc4fa4">![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
+![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
