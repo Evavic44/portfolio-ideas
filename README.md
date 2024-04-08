@@ -321,6 +321,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Dipesh Murmu            | ![Dipesh Murmu _ Experienced Full Stack Developer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/53532393-146d-4909-8a82-7fd2145edc07)                      | [portfolio.itsmedipesh.xyz](https://portfolio.itsmedipesh.xyz/)                                               | None                                                                       | Laravel PHP, Tailwind, JavaScript, CSS                                                                         |
 | Ibrahim Sadik Tamim     | ![screenshot-compressed](https://github.com/Evavic44/portfolio-ideas/assets/53873209/90259b35-24ec-4624-b08c-4bd36ccfc9a1)                                                | [tam11a.dev](https://tam11a.dev)                                                                              | [GitHub](https://github.com/tam11a/tam11a.dev)                             | Reactjs, TypeScript, TailwindCSS, Framer                                                                       |
 
+| Akshay kumar            |![akshaykumar](https://github.com/akshaytalanki19/portfolio-ideas/assets/110332292/d5dd480c-9fd5-4cf9-bbeb-83a1d01e2297)                                                   | [akshaytalanki19.com](https://akshaytalanki.netlify.app/)                                                     |  [GitHu](https://github.com/akshaytalanki19/portfolio)                     | Html,CSS,Java Script
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
