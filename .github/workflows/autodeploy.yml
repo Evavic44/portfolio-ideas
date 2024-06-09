@@ -12,7 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+        with:
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Node & deploy
       - name: Setup Node & deploy
         uses: actions/setup-node@v3
         with:
@@ -24,6 +26,7 @@ jobs:
       - name: Indent table and deploy
         run: |
           npm install
+          npm run format
           npm run format
           npm run deploy
           git config --global user.name "${{ github.actor }}"
