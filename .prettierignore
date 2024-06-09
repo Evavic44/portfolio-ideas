@@ -1,3 +1,2 @@
-.vitepress
-docs/.vitepress/cache
-renovate.json
+.vitepress/
+*.json
