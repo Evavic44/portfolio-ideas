@@ -5,14 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"no test available\"",
-    "format": "prettier --check --ignore-path .gitignore .",
-    "format:fix:all": "prettier --write --ignore-path .gitignore .",
-    "format:fix": "prettier --write",
-    "prepare": "husky install",
+    "format": "prettier --write .",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "deploy": "cp README.md ./docs/portfolio.md"
+    "deploy": "./extract.sh",
+    "prepare": "husky install"
   },
   "lint-staged": {
     "**/*.{md,ts,js,tsx,jsx}": [
