@@ -19,7 +19,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
 <br>
 
-
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
 
 | Author                  | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                       | Tech Stack                                                                                                     |
@@ -337,9 +336,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Vijay Kumar Reddy Talakola    |    ![Portfolio](https://github.com/VijayKumarReddyTalakola/portfolio-ideas/assets/109469574/c75a54c9-4f3b-47a3-920b-3da9f82ccb1c)                                   | [talakolavijay.vercel.app](https://talakolavijay.vercel.app/)                                                 | [GitHub](https://github.com/VijayKumarReddyTalakola/MyPortFolio)           | Reactjs, Tailwind CSS, AOS                                                                                     |
 | Nisarg Kavi             | ![Nisarg Kavi _ Software Engineer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/219370ad-c82b-43bc-a319-35d00dcf9b61)                                      | [nisargkavi.in](https://www.nisargkavi.in/)                                                                   | None                                                                       | Nextjs, Tailwind CSS, Framer Motion, AnimeJS                                                                   | 
 | Malik Naik              | ![Malik Naik _ Full Stack Engineer](https://github.com/Evavic44/portfolio-ideas/assets/53873209/1724a180-1647-42cd-977e-161d8ed94418)                                     | [maliknaik.me](https://www.maliknaik.me/)                                                                     | None                                                                       | HTML, CSS, Bootstrap, and JavaScript                                                                           |
-| Kshitij Gehlot              | ![Kshitij_SDE](https://github.com/KDGehlot2003/portfolio-ideas/assets/97123008/0dadbdb3-2d5b-42dc-8c6f-5af25bc94fcb)                                     | [KDGehlot2003.github.io](https://kdgehlot2003.github.io/Portfolio/)                                                                     | [GitHub](https://github.com/KDGehlot2003/Portfolio)                                                                       | HTML, CSS, Bootstrap, and JavaScript                                                                           |
-
-
+| Kshitij Gehlot              | ![Kshitij_SDE](https://github.com/KDGehlot2003/portfolio-ideas/assets/97123008/0dadbdb3-2d5b-42dc-8c6f-5af25bc94fcb)                                     | [KDGehlot2003.github.io](https://kdgehlot2003.github.io/Portfolio/)                                                                     | [GitHub](https://github.com/KDGehlot2003/Portfolio)                                                                       | HTML, CSS, Bootstrap, and JavaScript                 |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
