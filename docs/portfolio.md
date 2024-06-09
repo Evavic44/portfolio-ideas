@@ -1,25 +1,6 @@
-![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
-
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
-<h1 align="center">Portfolio Ideas</h1> 
-<p>A curation of awesome portfolio ideas for developers and designers to draw inspirations when they decide to create their own. Want to add yours or someone else's, feel free to raise a PR to add them. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, <a href="https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw">30 web developer ideas to inspire you</a> and my personal struggles :).</p>
-</div>
-  
-Read about how this project started: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
-
-## Contribute
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/github/all-contributors/Evavic44/portfolio-ideas?style=flat-square&color=%23EE8449)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
-<br>
-
-<!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
+---
+layout: home
+---
 
 | Author                  | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                       | Tech Stack                                                                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -155,7 +136,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Aycan Öğüt              | ![aycan.dev](https://user-images.githubusercontent.com/74212439/199970839-6f0ab4f3-c63a-4052-a05c-e8503d7943de.png)                                                       | [aycan.dev](https://www.aycan.dev)                                                                            | [Github](https://github.com/aycanogut/aycan.dev)                           | React, Next, TypeScript, Mantine                                                                               |
 | Manish Kumar            | ![manishk.dev](https://user-images.githubusercontent.com/54291836/200181649-39dd0705-d6ac-4f2c-a60a-926b6e713f2e.png)                                                     | [manishk.dev](https://manishk.dev)                                                                            | [Github](https://github.com/manishprivet/portfolio)                        | React, Next, TypeScript, ParticleJS, Firebase, Vercel                                                          |
 | Andrea Toffanello       | ![Andrea Toffanello portfolio](https://user-images.githubusercontent.com/53873209/200663072-b61f6f84-c482-45d1-9e60-85ab096aca8f.png)                                     | [andreatoffanello.com](https://andreatoffanello.com)                                                          | None                                                                       | VueJS, ThreeJS, GSAP, Blender                                                                                  |
-| Chandraprakash Darji    | ![image](https://user-images.githubusercontent.com/93640141/201102466-189f51cb-f959-4645-920f-0b40d0ecc8a4.png)                                                           | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/)                                                     | [Github](https://github.com/Chandraprakash-Darji/personal)       | Nextjs, Typescript, Tailwindcss, Vercel                                                                        |
+| Chandraprakash Darji    | ![image](https://user-images.githubusercontent.com/93640141/201102466-189f51cb-f959-4645-920f-0b40d0ecc8a4.png)                                                           | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/)                                               | [Github](https://github.com/Chandraprakash-Darji/personal)                 | Nextjs, Typescript, Tailwindcss, Vercel                                                                        |
 | Khaled Mohamed          | ![image](https://user-images.githubusercontent.com/73050798/201541801-81a752fb-c3c7-44fc-9526-002ccd2af7ca.png)                                                           | [John Doe](https://portfolio-john2.netlify.app/)                                                              | None                                                                       | HTML5, SCSS, Bootstrap5, JavaScript, SwipperJS, Netlify                                                        |
 | Michael Kolesidis       | ![screenshot](https://raw.githubusercontent.com/michaelkolesidis/michaelkolesidis.com/main/screenshots/desktop_1.png)                                                     | [michaelkolesidis.com](https://michaelkolesidis.com/)                                                         | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com)         | TypeScript, p5.js, Sass, Vite                                                                                  |
 | Piyush Goyani           | ![PiyushGoyaniPortfolio](https://user-images.githubusercontent.com/18528418/202102781-b1d7826f-d401-481b-afeb-d3d54f42ba7d.png)                                           | [piyushgoyani.thesourcepedia.org](https://piyushgoyani.thesourcepedia.org)                                    | None                                                                       | VueJS, Gridsome, TailwindCSS, Firebase                                                                         |
@@ -310,48 +291,4 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Baraa Alshaer           | ![Screenshot 2024-02-12 171202](https://github.com/Evavic44/portfolio-ideas/assets/89737291/32e7df8d-9c05-4110-9716-abe98699fa56)                                         | [alshaer.vercel.app](https://alshaer.vercel.app/)                                                             | [GitHub](https://github.com/balshaer/alshaer)                              | React JS, Typescript, Shadcn ui , Tailwind CSS                                                                 |
 | Sameera Sandakelum      | ![Screenshot 2024-02-13 at 2-compressed](https://github.com/sameerasw/portfolio-ideas/assets/68902530/795476a2-f048-49d9-9ce1-74e5abfa9269)                               | [sameerasw.me](https://sameerasw.me/)                                                                         | [GitHub](https://github.com/sameerasw/sameerasw.me)                        | HTML, CSS, Javascript, Netlify                                                                                 |
 | Jam Moonbami            | ![moonbamiofficial vercel app](https://github.com/MoonbamiOfficial/portfolio-ideas/assets/141120384/58309b01-c878-4f23-ac7c-d6560c80fc52)                                 | [moonbamiofficial.vercel.app](https://moonbamiofficial.vercel.app)                                            | [GitHub](https://github.com/MoonbamiOfficial/dev-portfolio)                | Next.js, Node.js, React, Tailwind CSS, MongoDB, Vercel                                                         |
-| Asharib Ali | ![cv](https://github.com/Evavic44/portfolio-ideas/assets/102221198/c08ac4bc-f5d9-4115-89c9-e31f244428e2) | [cv.asharib.xyz](https://cv.asharib.xyz/) | [GitHub](https://github.com/AsharibAli/cv) | Next.js, React, Typescript, Shadcn/ui, Tailwind CSS, Vercel |
-
-
-
-<!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
-
-## Suggestions
-
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
-
-## Sponsor
-
-As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
-If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
-
-<a href="https://buymeacoffee.com/victoreke">
-  <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
-</a>
-
-## Contributors
-
-Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://israelmitolu.netlify.app"><img src="https://avatars.githubusercontent.com/u/53873209?v=4?s=100" width="100px;" alt="Israel Mitolu"/><br /><sub><b>Israel Mitolu</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://piyushgoyani.thesourcepedia.org"><img src="https://avatars.githubusercontent.com/u/18528418?v=4?s=100" width="100px;" alt="Piyush Goyani"/><br /><sub><b>Piyush Goyani</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://frankiefab.com"><img src="https://avatars.githubusercontent.com/u/46662771?v=4?s=100" width="100px;" alt="Franklin Ohaegbulam"/><br /><sub><b>Franklin Ohaegbulam</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vimode"><img src="https://avatars.githubusercontent.com/u/39148877?v=4?s=100" width="100px;" alt="vimode"/><br /><sub><b>vimode</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+| Asharib Ali             | ![cv](https://github.com/Evavic44/portfolio-ideas/assets/102221198/c08ac4bc-f5d9-4115-89c9-e31f244428e2)                                                                  | [cv.asharib.xyz](https://cv.asharib.xyz/)                                                                     | [GitHub](https://github.com/AsharibAli/cv)                                 | Next.js, React, Typescript, Shadcn/ui, Tailwind CSS, Vercel                                                    |
