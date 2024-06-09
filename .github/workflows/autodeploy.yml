@@ -11,16 +11,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with: 
+        with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Setup Node & deploy 
+      - name: Setup Node & deploy
         uses: actions/setup-node@v3
-        with: 
-          node-version: '16'
+        with:
+          node-version: "16"
       - run: |
           npm install
+          npm run format
           npm run deploy
-          git status
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add .
