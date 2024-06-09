@@ -1,0 +1,3 @@
+.vitepress
+docs/.vitepress/cache
+renovate.json
