@@ -339,6 +339,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Kshitij Gehlot             | ![Kshitij_SDE](https://github.com/KDGehlot2003/portfolio-ideas/assets/97123008/0dadbdb3-2d5b-42dc-8c6f-5af25bc94fcb)                                                      | [KDGehlot2003.github.io](https://kdgehlot2003.github.io/Portfolio/)                                           | [GitHub](https://github.com/KDGehlot2003/Portfolio)                          | HTML, CSS, Bootstrap, and JavaScript                                                                           |
 | Johnson Takashi            | ![Johnson Takashi  Blochchain Developer](https://github.com/Evavic44/portfolio-ideas/assets/136550624/7a307c24-fa55-44b5-bcc2-c8997bb0f210)                               | [johnson-takashi-blockchain.web.app](https://johnson-takashi-blockchain.web.app/)                             | [GitHub](https://github.com/John-T45/John-T45.github.io)                     | HTML, CSS, Bootstrap, and JavaScript                                                                           |
 
+| Shubham Gaur           | ![Shubham Gaur Minimalist Engineer](https://github.com/Evavic44/portfolio-ideas/assets/136550624/7a307c24-fa55-44b5-bcc2-c8997bb0f210)                               | [shubhamessier.github.io](https://shubhamessier.github.io/)                             | [GitHub](https://github.com/shubhamessier/portfolio)                     | HTML, CSS and JavaScript                            
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
