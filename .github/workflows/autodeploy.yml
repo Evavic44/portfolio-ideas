@@ -3,6 +3,7 @@ run-name: Run the deploy command
 on:
   push:
     branches: [main]
+
 jobs:
   deployment:
     runs-on: ubuntu-latest
@@ -10,19 +11,27 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-        with: 
+        uses: actions/checkout@v4
+        with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Setup Node & deploy 
+      - name: Make script file executable
+        run: chmod +x extract.sh
+      - name: Run the script
+        run: ./extract.sh
+      - name: Setup Node
         uses: actions/setup-node@v3
-        with: 
-          node-version: '16'
-      - run: |
-          npm install
-          npm run deploy
-          git status
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm install
+      - name: Format code
+        run: npm run format
+      - name: Configure Git
+        run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+      - name: Commit and push changes
+        run: |
           git add .
           git commit -m "docs: deploy site"
           git push
