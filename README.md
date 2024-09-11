@@ -356,7 +356,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Nicholas Gannon            | ![Nicholas' Portfolio-Screenshot](https://github.com/user-attachments/assets/a9fe6bee-fe62-4275-8078-cc0dcbff4957)                                                        | [Nicholas' Portfolio](https://nicholasgannon.io/)                                                             | [GitHub](https://github.com/NicholasGannon/Portfolio)                        | HTML, TailwindCSS, JavaScript                                                                                  |
 | Chung Nguyen Thanh         | ![ChunhThanhDe's Portfolio Screenshot](https://github.com/user-attachments/assets/1d84ec41-2003-4dbf-a147-0bf6e557464c)                                                   | [ChunhThanhDe's Portfolio](https://chunhthanhde.github.io)                                                    | [GitHub](https://github.com/chunhthanhde)                                    | Flutter, Dart, Github Pages                                                                                    |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
