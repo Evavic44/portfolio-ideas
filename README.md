@@ -358,11 +358,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Babatunde Afreka           | ![Babatunde Afreka](https://github.com/user-attachments/assets/40998efa-1242-4a34-bbd0-0c8f52bae569)                                                                      | [Babatunde Afreka](https://bafrekauiux.framer.website/)                                                       | None                                                                         | Framer, React                                                                                                  |
 | LNLenost                   | ![LNLenost portfolio](https://github.com/user-attachments/assets/04257cca-db69-4917-97c0-6e8d44d8599c)                                                                    | [LNLenost](https://lnlenost.netlify.app/)                                                                     | [GitHub](https://github.com/LNLenost/lnlenost.github.io)                     | HTML, SASS, JavaScript                                                                                         |
 
-
-
-
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
