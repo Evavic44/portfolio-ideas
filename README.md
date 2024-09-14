@@ -357,8 +357,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Chung Nguyen Thanh         | ![ChunhThanhDe's Portfolio Screenshot](https://github.com/user-attachments/assets/1d84ec41-2003-4dbf-a147-0bf6e557464c)                                                   | [ChunhThanhDe's Portfolio](https://chunhthanhde.github.io)                                                    | [GitHub](https://github.com/chunhthanhde)                                    | Flutter, Dart, Github Pages                                                                                    |
 | Babatunde Afreka           | ![Babatunde Afreka](https://github.com/user-attachments/assets/40998efa-1242-4a34-bbd0-0c8f52bae569)                                                                      | [Babatunde Afreka](https://bafrekauiux.framer.website/)                                                       | None                                                                         | Framer, React                                                                                                  |
 
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
