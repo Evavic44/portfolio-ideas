@@ -361,7 +361,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mariya Baig                | ![Mariya Baig](https://github.com/user-attachments/assets/a84c4d58-5d4b-4750-aecc-1111c13c4f8d)                                                                           | [mariyabaig.vercel.app](https://mariyabaig.vercel.app/)                                                       | None                                                                         | NextJS, TailwindCSS                                                                                            |
 | Ketuman                    | ![Ketuman Vishwakarma portfolio screenshot](https://github.com/user-attachments/assets/2eeb3d2a-47b4-4646-ae43-3205558c2077)                                              | [k2maan.vercel.app](https://k2maan.vercel.app/)                                                               | None                                                                         | NextJS, TailwindCSS                                                                                            |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
