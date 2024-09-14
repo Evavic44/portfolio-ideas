@@ -360,7 +360,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Shivam Panchal             | ![Shivam Panchal screenshot](https://github.com/user-attachments/assets/a2eee35e-c4d9-40e0-b426-97173a921888)                                                             | [shivampanchal.vercel.app](https://shivampanchal.vercel.app/)                                                 | None                                                                         | ReactJS, CSS                                                                                                   |
 | Mariya Baig                | ![Mariya Baig](https://github.com/user-attachments/assets/a84c4d58-5d4b-4750-aecc-1111c13c4f8d)                                                                           | [mariyabaig.vercel.app](https://mariyabaig.vercel.app/)                                                       | None                                                                         | NextJS, TailwindCSS                                                                                            |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
