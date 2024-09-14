@@ -359,7 +359,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | LNLenost                   | ![LNLenost portfolio](https://github.com/user-attachments/assets/04257cca-db69-4917-97c0-6e8d44d8599c)                                                                    | [lnlenost.netlify.app](https://lnlenost.netlify.app/)                                                         | [GitHub](https://github.com/LNLenost/lnlenost.github.io)                     | HTML, SASS, JavaScript                                                                                         |
 | Krishnakumar Valliappan    | ![Krishnakumar portfolio](https://github.com/user-attachments/assets/47417aec-3674-4e02-a459-2635bfee76e4)                                                                | [krishnakumar.dev](https://www.krishnakumar.dev/)                                                             | [GitHub](https://github.com/krishnavalliappan/portfolio-website)             | Next.js, Framer, TypeScript, TailwindCSS, shadcn/ui                                                            |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
