@@ -359,7 +359,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | LNLenost                   | ![LNLenost portfolio](https://github.com/user-attachments/assets/04257cca-db69-4917-97c0-6e8d44d8599c)                                                                    | [lnlenost.netlify.app](https://lnlenost.netlify.app/)                                                         | [GitHub](https://github.com/LNLenost/lnlenost.github.io)                     | HTML, SASS, JavaScript                                                                                         |
 | Shivam Panchal             | ![Shivam Panchal screenshot](https://github.com/user-attachments/assets/a2eee35e-c4d9-40e0-b426-97173a921888)                                                             | [shivampanchal.vercel.app](https://shivampanchal.vercel.app/)                                                 | None                                                                         | ReactJS, CSS                                                                                                   |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
