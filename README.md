@@ -370,7 +370,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Muhammad Essa              | ![Muhammad's Portfolio](https://github.com/user-attachments/assets/d89bdcc9-af16-4238-8cfa-4404182aae0c)                                                                  | [muhammadessa.vercel.app](https://muhammadessa.vercel.app/)                                                   | [GitHub](https://github.com/imuhammadessa)                                   | React.js, Next.js, Tailwind, MUI and Vercel.                                                                   |
 | Farouk Mustapha            | ![devFarouk--](https://github.com/user-attachments/assets/b838cec5-83ea-438d-8cf7-78ffd2e50794)                                                                           | [devfarouk.vercel.app](https://devfarouk.vercel.app/)                                                         | [GitHub](https://github.com/Farouk-ayo/devfarouk)                            | NextJs, Typescript, TailwindCSS, AOS                                                                           |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
