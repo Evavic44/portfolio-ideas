@@ -369,6 +369,9 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Umesh Nagare               | ![Portfolio](https://github.com/user-attachments/assets/965c1482-ba68-42f1-8a35-d9432245f9fd)                                                                             | [umeshnagare.vercel.app](https://umeshnagare.vercel.app)                                                      | [GitHub](https://github.com/Algoture/PortFolio)                              | React, Vercel, CSS, Locomotive Scroll                                                                          |
 | Muhammad Essa              | ![Muhammad's Portfolio](https://github.com/user-attachments/assets/d89bdcc9-af16-4238-8cfa-4404182aae0c)                                                                  | [muhammadessa.vercel.app](https://muhammadessa.vercel.app/)                                                   | [GitHub](https://github.com/imuhammadessa)                                   | React.js, Next.js, Tailwind, MUI and Vercel.                                                                   |
 | Farouk Mustapha            | ![devFarouk--](https://github.com/user-attachments/assets/b838cec5-83ea-438d-8cf7-78ffd2e50794)                                                                           | [devfarouk.vercel.app](https://devfarouk.vercel.app/)                                                         | [GitHub](https://github.com/Farouk-ayo/devfarouk)                            | NextJs, Typescript, TailwindCSS, AOS                                                                           |
+| Rauliqbal          |  ![rauliqbal-preview](https://github.com/user-attachments/assets/dbe29f36-a04f-4305-92e6-2b36b84fdc4a)   | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/) | None | Next JS, TypeScript, Tailwind CSS, Framer Motion, Supabase |
+
+
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
