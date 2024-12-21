@@ -371,7 +371,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Farouk Mustapha            | ![devFarouk--](https://github.com/user-attachments/assets/b838cec5-83ea-438d-8cf7-78ffd2e50794)                                                                           | [devfarouk.vercel.app](https://devfarouk.vercel.app/)                                                         | [GitHub](https://github.com/Farouk-ayo/devfarouk)                            | NextJs, Typescript, TailwindCSS, AOS                                                                           |
 | Sachin Desai               | ![sachin-desai-portfolio-compressed](https://github.com/user-attachments/assets/259f8197-9aa6-4e18-a2ed-0f81de07106f)                                                     | [sachindesai.in](https://sachindesai.in)                                                                      | [GitHub](https://github.com/sachind3/finalportfolio)                         | Next Js 14, Tailwind CSS Vercel, GSAP, CSS, Locomotive Scroll                                                  |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
