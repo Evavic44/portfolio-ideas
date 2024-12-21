@@ -372,8 +372,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sachin Desai               | ![sachin-desai-portfolio-compressed](https://github.com/user-attachments/assets/259f8197-9aa6-4e18-a2ed-0f81de07106f)                                                     | [sachindesai.in](https://sachindesai.in)                                                                      | [GitHub](https://github.com/sachind3/finalportfolio)                         | Next Js 14, Tailwind CSS Vercel, GSAP, CSS, Locomotive Scroll                                                  |
 | Rauliqbal                  | ![rauliqbal-preview](https://github.com/user-attachments/assets/dbe29f36-a04f-4305-92e6-2b36b84fdc4a)                                                                     | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/)                                                         | None                                                                         | Next JS, TypeScript, Tailwind CSS, Framer Motion, Supabase                                                     |
 
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
