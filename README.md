@@ -373,9 +373,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Rauliqbal                  | ![rauliqbal-preview](https://github.com/user-attachments/assets/dbe29f36-a04f-4305-92e6-2b36b84fdc4a)                                                                     | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/)                                                         | None                                                                         | Next JS, TypeScript, Tailwind CSS, Framer Motion, Supabase                                                     |
 | TSolutionsX                | ![TSolution screenshot](https://github.com/user-attachments/assets/9e9746e9-c6d5-4e87-b1ef-66649606af08)                                                                  | [techsolutionsx.vercel.app](https://techsolutionsx.vercel.app/)                                               | None                                                                         | NextJS, TailwindCSS                                                                                            |
 
-
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
