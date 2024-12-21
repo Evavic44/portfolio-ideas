@@ -1,4 +1,4 @@
-![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
+![Priyanshu](https://github.com/user-attachments/assets/e7a95c26-b480-4971-aa9e-9e334ff4370f)![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
@@ -373,6 +373,9 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Rauliqbal                  | ![rauliqbal-preview](https://github.com/user-attachments/assets/dbe29f36-a04f-4305-92e6-2b36b84fdc4a)                                                                     | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/)                                                         | None                                                                         | Next JS, TypeScript, Tailwind CSS, Framer Motion, Supabase                                                     |
 | TSolutionsX                | ![TSolution screenshot](https://github.com/user-attachments/assets/9e9746e9-c6d5-4e87-b1ef-66649606af08)                                                                  | [techsolutionsx.vercel.app](https://techsolutionsx.vercel.app/)                                               | None                                                                         | NextJS, TailwindCSS                                                                                            |
 | Chun-Ho (Hugo) Lin         | ![1chooo-compressed](https://github.com/user-attachments/assets/6cbdefb3-a96f-47f3-80f1-d4ec55071cf5)                                                                     | [1chooo.com](https://1chooo.com/)                                                                             | [GitHub](https://github.com/1chooo/1chooo.com)                               | ReactJS, Next.js, Nextra (V3), TypeScript                                                                      |
+| Priyanshu Tiwari           | ![Priyanshu](https://github.com/user-attachments/assets/b5b35fc7-89cd-4439-9fb1-802622e3ac2f)                                                                             | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/)                                           | [GitHub](https://github.com/priyanshtiwari001/portfolio)                     | NextJS, TailwindCSS, TypeScript, ThreeJS                                                                       |
+
+
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
