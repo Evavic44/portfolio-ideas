@@ -375,8 +375,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Chun-Ho (Hugo) Lin         | ![1chooo-compressed](https://github.com/user-attachments/assets/6cbdefb3-a96f-47f3-80f1-d4ec55071cf5)                                                                     | [1chooo.com](https://1chooo.com/)                                                                             | [GitHub](https://github.com/1chooo/1chooo.com)                               | ReactJS, Next.js, Nextra (V3), TypeScript                                                                      |
 | Priyanshu Tiwari           | ![Priyanshu](https://github.com/user-attachments/assets/b5b35fc7-89cd-4439-9fb1-802622e3ac2f)                                                                             | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/)                                           | [GitHub](https://github.com/priyanshtiwari001/portfolio)                     | NextJS, TailwindCSS, TypeScript, ThreeJS                                                                       |
 | Durgesh                    | ![Durgesh screenshot](https://github.com/user-attachments/assets/efb56504-c4bf-460b-a92d-d5caabe67b59)                                                                    | [yodkwtf.com](https://yodkwtf.com/)                                                                           | [GitHub](https://github.com/yodkwtf/yodkwtf.com)                             | ReactJS, CSS, Context API, Airtable CMS                                                                        |
-  
-
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
