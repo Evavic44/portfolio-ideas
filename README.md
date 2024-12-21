@@ -374,8 +374,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | TSolutionsX                | ![TSolution screenshot](https://github.com/user-attachments/assets/9e9746e9-c6d5-4e87-b1ef-66649606af08)                                                                  | [techsolutionsx.vercel.app](https://techsolutionsx.vercel.app/)                                               | None                                                                         | NextJS, TailwindCSS                                                                                            |
 | Chun-Ho (Hugo) Lin         | ![1chooo-compressed](https://github.com/user-attachments/assets/6cbdefb3-a96f-47f3-80f1-d4ec55071cf5)                                                                     | [1chooo.com](https://1chooo.com/)                                                                             | [GitHub](https://github.com/1chooo/1chooo.com)                               | ReactJS, Next.js, Nextra (V3), TypeScript                                                                      |
 
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
