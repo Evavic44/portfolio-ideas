@@ -378,8 +378,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mihir                      | ![mihir-screenshot](https://github.com/user-attachments/assets/360b7613-349f-4b97-bfaa-f7a491e0024d)                                                                      | [mihir-portfolio-main-777.vercel.app](https://mihir-portfolio-main-777.vercel.app/)                           | [GitHub](https://github.com/MIHIR2006/mihir-portfolio)                       | React, Framer, GSAP, EmailJS                                                                                   |
 | Aditya Bansal              | ![aditya portfolio](https://github.com/user-attachments/assets/71506a08-c688-4874-b356-dd669f94bafc)                                                                      | [adityabansal.tech](https://www.adityabansal.tech/)                                                           | None                                                                         | Three js, R3F, React Js, Framer Motion, GSAP                                                                   |
 
-
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
