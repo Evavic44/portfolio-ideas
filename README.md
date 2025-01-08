@@ -381,7 +381,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Ata Berkay Karakuş         | ![port](https://github.com/user-attachments/assets/79981fa1-5b5b-4b5c-9a29-dfce53f2ea01)                                                                                  | [berkaykrks.com](https://berkaykrks.netlify.app/)                                                             | [GitHub](https://github.com/berkaykrks/personal-website)                     | HTML, CSS, JS                                                                                                  |
 | Salim Rutaganda            | ![salim portfolio](https://github.com/user-attachments/assets/37814bfc-a745-432d-8526-e1df45757a13)                                                                       | [rsalim.vercel.app](https://www.rsalim.vercel.app/)                                                           | [GitHub](https://github.com/rutaganda-salim/devfolio)                        | React, Next.js, Tailwindcss, TypeScript                                                                        |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
