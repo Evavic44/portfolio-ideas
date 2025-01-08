@@ -382,7 +382,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Salim Rutaganda            | ![salim portfolio](https://github.com/user-attachments/assets/37814bfc-a745-432d-8526-e1df45757a13)                                                                       | [rsalim.vercel.app](https://www.rsalim.vercel.app/)                                                           | [GitHub](https://github.com/rutaganda-salim/devfolio)                        | React, Next.js, Tailwindcss, TypeScript                                                                        |
 | Culture DevOps             | ![Capture-culturedevops](https://github.com/user-attachments/assets/80927193-1f1d-433b-a109-504c86067297)                                                                 | [culturedevops.com](https://culturedevops.com/en)                                                             | [GitHub](https://github.com/CultureDevOps/blog)                              | Next.js, Tailwind CSS, i18n                                                                                    |
 
-  
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
