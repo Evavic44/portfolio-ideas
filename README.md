@@ -380,7 +380,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Nafis Mahmud Ayon          | ![nafisbd portfolio](https://github.com/user-attachments/assets/70a0398d-246b-46aa-86c4-41b02aed56f5)                                                                     | [nafisbd.com](https://nafisbd.com/)                                                                           | [GitHub](https://github.com/NafisMahmudAyon/Portfolio-NafisBd.com-v2)        | React Js, Framer Motion, NextJS, TailwindCSS, TypeScript                                                       |
 | Ata Berkay Karakuş         | ![port](https://github.com/user-attachments/assets/79981fa1-5b5b-4b5c-9a29-dfce53f2ea01)                                                                                  | [berkaykrks.com](https://berkaykrks.netlify.app/)                                                             | [GitHub](https://github.com/berkaykrks/personal-website)                     | HTML, CSS, JS                                                                                                  |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
