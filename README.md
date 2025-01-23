@@ -383,7 +383,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Culture DevOps             | ![Capture-culturedevops](https://github.com/user-attachments/assets/80927193-1f1d-433b-a109-504c86067297)                                                                 | [culturedevops.com](https://culturedevops.com/en)                                                             | [GitHub](https://github.com/CultureDevOps/blog)                              | Next.js, Tailwind CSS, i18n                                                                                    |
 | Hanif Yuli Abdillah P      | ![hanifabdlh](https://github.com/user-attachments/assets/610c6585-7f32-415e-8abe-e5066404363b)                                                                            | [hanifabdlh.vercel.app](https://hanifabdlh.vercel.app/)                                                       | None                                                                         | Python, HTML, CSS, JS                                                                                          |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
