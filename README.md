@@ -385,6 +385,9 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Manish Tamang              | ![Manish Tamang Screenshot](https://github.com/user-attachments/assets/c0f58fd1-3222-41f3-a934-4e9f3771c817)                                                              | [manishtamang.com](https://manishtamang.com/)                                                                 | None                                                                         | Next.js, TailwindCSS, React, Sanity                                                                            |
 | Aditya Punmiya             | ![Aditya Punmiya](https://github.com/user-attachments/assets/5653c477-938d-4366-896c-ed552fcec578)                                                                        | [adityapunmiya.com](https://adityapunmiya.com/)                                                               | [GitHub](https://github.com/Aditya-0011/portfolio-website)                   | Next.js, Tailwind CSS, TypeScript, MongoDB, Nodemailer, Zod                                                    |
 
+| Srijan Banniyal            |  ![Srijan Baniyal]()  |  [srijanbaniyal.com](https://srijanbaniyal.com)  |  None   | Next.js, Tailwindcss, Typescript, Shadcn-UI, Framer Motion or Motion
+
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
