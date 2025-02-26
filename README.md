@@ -392,7 +392,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Kavan Bhavsar              | ![Kavan Bhavsar](https://github.com/user-attachments/assets/73f5c775-ccde-492c-80ba-fce460614288)                                                                         | [kavan-bhavsar.vercel.app](https://kavan-bhavsar.vercel.app)                                                  | None                                                                         | Next.js, Tailwind, Framer Motion, Convex, Spline, TypeScript, Vercel                                           |
 | Vignesh Patali             | ![Vignesh Patali screenshot](https://github.com/user-attachments/assets/628e1238-4682-4d3f-89b8-5fab71f38924)                                                             | [vigh.me](https://vigh.me/)                                                                                   | None                                                                         | Next.js, React, Tailwind CSS, TypeScript, Threejs, Vercel                                                      |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
