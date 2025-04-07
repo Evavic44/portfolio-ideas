@@ -398,6 +398,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Enes Hacısağır             | ![Enes screenshot](https://github.com/user-attachments/assets/0c22400b-1a56-495c-aced-7344be169fa4)                                                                       | [enesehs.me](https://www.enesehs.me/)                                                                         | [GitHub](https://github.com/enesehs)                                         | Html, CSS, JavaScript, GSAP                                                                                    |
 | Binil B                    | !![thegr8binil me](https://github.com/user-attachments/assets/11dbdaf0-15b2-4982-9f71-6dc0f0dfdc88)                                                                       | [thegr8binil.me](https://thegr8binil.me)                                                                      | [GitHub](https://github.com/thegr8binil/)                                    | Nextjs, Motion, Tailwind CSS, TypeScript, GSAP, Vercel                                                         |
 | Roman Mendaliev            | ![roman.asd.lol](https://github.com/user-attachments/assets/db11705d-8e0b-4e82-be81-46b8e635f7f5)                                                                         | [roman.asd.lol](https://roman.asd.lol)                                                                        | [Github](https://github.com/reacheight/home)                                 | HTML, CSS, JavaScript                                                                                          |
+| Uday G                     | ![Uday_screenshot](https://github.com/user-attachments/assets/d44a9769-be9d-4851-99b6-dd713ba31907)                                                                       | [portfoliov3-puce.vercel.app](https://portfoliov3-puce.vercel.app/)
+           | [GitHub](https://github.com/oxBinaryBrain/Portfoilo_v3)                      | TypeScript, TailwindCSS, Vercel, Vite, Nextjs                                                                  |
+
+
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
