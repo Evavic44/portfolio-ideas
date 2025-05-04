@@ -406,7 +406,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Uday G                     | ![Screenshot_15-4-2025_82636_portfoliov3-puce vercel app](https://github.com/user-attachments/assets/158b9d38-999b-4f03-8ec5-eba0bd98d947)                                | [portfoliov3-puce.vercel.app](https://portfoliov3-puce.vercel.app/)                                           | [GitHub](https://github.com/oxBinaryBrain/Portfoilo_v3)                      | TypeScript, CSS, Vercel, Vite, Nextjs                                                                          |
 | Utkarsh Singhal            | ![Utkarsh Singhal](https://github.com/user-attachments/assets/3ebb9e75-f9ac-4c9a-9fc9-9c77b044c28c)                                                                       | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/)                                                 | [Github](https://github.com/Utkarsh-Singhal-26/portfolio)                    | Next.js, TypeScript, TailwindCSS, ShadCN UI, Vercel                                                            |
 
-| Duc Pham Ngoc              | ![Screenshot 2025-05-04 214111](https://github.com/user-attachments/assets/0afdce92-4d16-460f-a773-dc0b5abeb1a8)                                                          | [itsmee.space](https://itsmee.space/)                                                 | [Github](https://github.com/DucPhamNgoc08)                            | Next.js, TypeScript, TailwindCSS, ShadCN UI                                                           |
+| Duc Pham Ngoc  | ![Screenshot 2025-05-04 214111](https://github.com/user-attachments/assets/aa286f55-8ac0-44aa-b7e6-ce0c54616568)
+ | [itsmee.space](https://itsmee.space/) | [Github](https://github.com/DucPhamNgoc08/itsmee.space) | Next.js, TypeScript, TailwindCSS, ShadCN UI |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
