@@ -419,7 +419,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Kartik Jain                 | ![Kartik Jain portfolio](https://github.com/user-attachments/assets/674eb357-1ce3-41f8-aac4-a560c116f9f6)                                                                 | [jkartik.in](https://jkartik.in)                                                                              | [GitHub](https://github.com/KartikJain14/jkartik.in)                         | HTML, CSS, JavaScript                                                                                          |
 | Aarav Gupta                 | ![Aarav Gupta](https://github.com/user-attachments/assets/0191ec6e-6f03-4074-89b3-274747cfe4ff)                                                                           | [aarus2709.me](https://aarus2709.me)                                                                          | [GitHub](https://github.com/Aarav2709/AarusPortfolio)                        | HTML, CSS, JavaScript, GSAP                                                                                    |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
