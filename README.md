@@ -415,7 +415,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Ali Imam                    | ![Ali Imam portfolio](https://github.com/user-attachments/assets/b5184b8c-ea2c-4cdf-8499-8b325ca429c9)                                                                    | [dalim.in](https://dalim.in)                                                                                  | [GitHub](https://github.com/designali-in/designali.in)                       | Next.js, Typescript, Authjs, Prisma, Cloudinary, Spotify, Resend                                               |
 | William Cachawri            | ![William Cachawri Blog](https://github.com/user-attachments/assets/8a4a6491-5f71-4e51-a49b-a4e0ed037769)                                                                 | [minimal-blog-seven.vercel.app](https://minimal-blog-seven.vercel.app)                                        | None                                                                         | Next.js 15+, TailwindCSS, ShadCN UI, Framer Motion, Three.js, TypeScript, React Three Fiber, Markdown, Auth    |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
