@@ -417,7 +417,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Matteo Santoro              | ![Matteo portfolio](https://github.com/user-attachments/assets/942c6201-089f-4d04-88e6-075823ae7a34)                                                                      | [matteosantoro.dev](https://matteosantoro.dev)                                                                | None                                                                         | JavaScript, WebGL                                                                                              |
 | Sara Cajner                 | ![Sara Cajner](https://github.com/user-attachments/assets/01dce681-3132-44ef-912c-794b802d9104)                                                                           | [saracajner.com](https://saracajner.com)                                                                      | None                                                                         | ReactJS, CSS, GSAP, Stripe                                                                                     |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
