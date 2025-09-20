@@ -414,7 +414,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Pintu Singh                 | ![Pintu Singh Portfolio](https://github.com/user-attachments/assets/44bf28a3-f9da-46c5-bd07-ca0996e9647f)                                                                 | [pintusingh28.dev](https://pintusingh28.dev/)                                                                 | None                                                                         | Next.js, TypeScript, TailwindCSS, Framer Motion, ShadCN UI                                                     |
 | Ali Imam                    | ![Ali Imam portfolio](https://github.com/user-attachments/assets/b5184b8c-ea2c-4cdf-8499-8b325ca429c9)                                                                    | [dalim.in](https://dalim.in)                                                                                  | [GitHub](https://github.com/designali-in/designali.in)                       | Next.js, Typescript, Authjs, Prisma, Cloudinary, Spotify, Resend                                               |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
