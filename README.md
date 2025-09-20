@@ -418,7 +418,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Sara Cajner                 | ![Sara Cajner](https://github.com/user-attachments/assets/01dce681-3132-44ef-912c-794b802d9104)                                                                           | [saracajner.com](https://saracajner.com)                                                                      | None                                                                         | ReactJS, CSS, GSAP, Stripe                                                                                     |
 | Kartik Jain                 | ![Kartik Jain portfolio](https://github.com/user-attachments/assets/674eb357-1ce3-41f8-aac4-a560c116f9f6)                                                                 | [jkartik.in](https://jkartik.in)                                                                              | [GitHub](https://github.com/KartikJain14/jkartik.in)                         | HTML, CSS, JavaScript                                                                                          |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
