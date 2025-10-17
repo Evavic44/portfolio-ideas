@@ -422,7 +422,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Dev Clinton                 | ![Dev Clinton screenshot](https://github.com/user-attachments/assets/89f0505f-a758-458f-9f61-4f986ee2b2bf)                                                                | [devclinton.org](https://devclinton.org/)                                                                     | None                                                                         | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion                                                           |
 | Jesse Akoh                  | ![Jesse Akoh's portfolio](https://github.com/user-attachments/assets/db94cd81-d368-43ca-84d2-36041c600082)                                                                | [jesseakoh.com](https://jesseakoh.com)                                                                        | None                                                                         | Astro, TailwindCSS, Netlify                                                                                    |
 
-
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
