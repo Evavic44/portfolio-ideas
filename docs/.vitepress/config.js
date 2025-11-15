@@ -10,7 +10,7 @@ export default {
       { text: "Guide", link: "/guide" },
       { text: "Contributors", link: "/contributors" },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/evavic44" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Evavic44/portfolio-ideas" }],
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2022-present Victor Eke | Portfolio Ideas",
