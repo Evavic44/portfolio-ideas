@@ -422,8 +422,11 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Dev Clinton                 | ![Dev Clinton screenshot](https://github.com/user-attachments/assets/89f0505f-a758-458f-9f61-4f986ee2b2bf)                                                                | [devclinton.org](https://devclinton.org/)                                                                     | None                                                                         | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion                                                           |
 | Arshdeep Singh              | ![Arshdeep Singh Portfolio](https://github.com/user-attachments/assets/c8b90830-3577-4ccf-aecd-08ba06ab18cf)                                                              | [arshdeepsingh.me](https://arshdeepsingh.me/)                                                                 | None                                                                         | NextJS, ReactJS, TailwindCSS                                                                                   |
 | Jesse Akoh                  | ![Jesse Akoh's portfolio](https://github.com/user-attachments/assets/db94cd81-d368-43ca-84d2-36041c600082)                                                                | [jesseakoh.com](https://jesseakoh.com)                                                                        | None                                                                         | Astro, TailwindCSS, Netlify                                                                                    |
-| Maithri                   | ![Maithri Portfolio](<img width="1918" height="868" alt="Screenshot 2026-01-17 101134" src="https://github.com/user-attachments/assets/84f556a3-b6d5-4d33-9579-b54fab810b5f" />
- )| [Live Portfolio](https://maithri-portfolio-amber.vercel.app/)| [GitHub Repo](https://github.com/codemy3/maithri_portfolio) | Next.js , TailwindCSS, TypeScript    |
+| Maithri | None | [maithri-portfolio-amber.vercel.app](https://maithri-portfolio-amber.vercel.app/) | [GitHub](https://github.com/codemy3/maithri_portfolio) | Next.js, React.js, TailwindCSS, TypeScript |
+
+
+
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
