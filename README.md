@@ -422,6 +422,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Dev Clinton                 | ![Dev Clinton screenshot](https://github.com/user-attachments/assets/89f0505f-a758-458f-9f61-4f986ee2b2bf)                                                                | [devclinton.org](https://devclinton.org/)                                                                     | None                                                                         | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion                                                           |
 | Arshdeep Singh              | ![Arshdeep Singh Portfolio](https://github.com/user-attachments/assets/c8b90830-3577-4ccf-aecd-08ba06ab18cf)                                                              | [arshdeepsingh.me](https://arshdeepsingh.me/)                                                                 | None                                                                         | NextJS, ReactJS, TailwindCSS                                                                                   |
 | Jesse Akoh                  | ![Jesse Akoh's portfolio](https://github.com/user-attachments/assets/db94cd81-d368-43ca-84d2-36041c600082)                                                                | [jesseakoh.com](https://jesseakoh.com)                                                                        | None                                                                         | Astro, TailwindCSS, Netlify                                                                                    |
+| Sai Akshith Akshintala      | ![Sai Akshith Akshintala's portfolio](https://github.com/user-attachments/assets/aac158db-b50a-4b55-afd1-169186a851f7)                                                                                                             | [saiakshith.me](https://saiakshith.me)                                                                        | [GitHub](https://github.com/saiakshithakshintala266-collab/saiakshithakshintala266-collab.github.io)         | HTML5, CSS3, Vanilla JavaScript, Three.js, Google Fonts                                                        |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
@@ -440,9 +441,7 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 
 ## Contributors
 
-Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+Thanks goesE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
