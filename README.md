@@ -439,6 +439,7 @@ Do you have any portfolio you want to see added but you can't add it yourself? J
 
 As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
 If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
+| Gary Doman / GareBear99 / GareBearProductionz / TizWildin | ![Gary Doman portfolio](https://opengraph.githubassets.com/1/GareBear99/TizWildinEntertainmentHUB) | [Portfolio](https://garebear99.github.io/TizWildinEntertainmentHUB/) | [GitHub Repo](https://github.com/GareBear99/TizWildinEntertainmentHUB) | HTML, CSS, JavaScript, GitHub Pages |
 
 <a href="https://buymeacoffee.com/victoreke">
   <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
@@ -470,3 +471,4 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
