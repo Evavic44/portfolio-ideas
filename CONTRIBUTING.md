@@ -15,7 +15,8 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 The portfolio examples are enclosed between two comments:
 
 - `<! -- ⭐ PORTFOLIO START ⭐ -- >`
-- | Dhiraj Bhawsar | ![Uploading Problem Solver.png…]()
+- | Dhiraj Bhawsar | <img width="1800" height="1200" alt="Hello Dhiraj 1800x1200 (1)" src="https://github.com/user-attachments/assets/2a631298-afd1-4eca-ad8c-5a45047f971f" />
+
  | [dhirajbhawsar.in](https://dhirajbhawsar.in) | [GitHub](https://github.com/dhirajtsx) | Next.js, TypeScript, Supabase, Sanity CMS + MDX, Tailwind CSS |
 - `<! -- ⭐ PORTFOLIO END ⭐ -- >`
 
