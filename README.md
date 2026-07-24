@@ -429,6 +429,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Tanay Shah                  | ![Tanay Shah portfolio](https://github.com/user-attachments/assets/edcb704b-103c-4f3b-89c0-1aa45b0c2079)                                                                  | [tanayshah.dev](https://tanayshah.dev)                                                                        | [GitHub](https://github.com/tanayshah11)                                     | NextJS, TypeScript, Tailwind v4, Vercel                                                                        |
 | Parish Khan                 | ![parish.cv](https://raw.githubusercontent.com/ParishKhan/portfolio-ideas/add-parish-khan/assets/parish-cv.png)                                                           | [parish.cv](https://parish.cv)                                                                                | None                                                                         | React, TypeScript, Tailwind CSS, Vite                                                                          |
 
+| Ali Hamza                   | ![Ali Hamza portfolio](https://raw.githubusercontent.com/alihamzaio/portfolio-ideas/add/ali-hamza/assets/ali-hamza-portfolio.png)                                           | [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)                                                 | [GitHub](https://github.com/alihamzaio/portfolio)                            | Next.js, TypeScript, Tailwind CSS, Framer Motion, Vercel                                                       |
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
