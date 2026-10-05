@@ -443,6 +443,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Ali Hamza                   | ![Ali Hamza portfolio](https://github.com/user-attachments/assets/0856a644-a812-43ec-9972-6aa50aaa806c)                                                                   | [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)                                                 | [GitHub](https://github.com/alihamzaio/portfolio)                            | Next.js, TypeScript, Tailwind CSS, Framer Motion, Vercel                                                       |
 | Diini M. Kahiye             | ![diinikahiye.online](https://github.com/user-attachments/assets/9fa24784-0f56-40f1-a144-c751582e0b48)                                                                    | [diinikahiye.online](https://www.diinikahiye.online)                                                          | [GitHub](https://github.com/Diini03/diini-e5efca25)                          | React, TypeScript, Tailwind CSS, Framer Motion                                                                 |
 
+| Aaftab Vijapura             | ![Aaftab Vijapura's Portfolio](https://github.com/user-attachments/assets/bb26046a-6655-4252-a667-00b5397bfb32)                                                       | [aaftab.is-a.dev](https://aaftab.is-a.dev)                                                                        | None                                                                               | React, JavaScript, Tailwind CSS |
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
