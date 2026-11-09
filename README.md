@@ -446,6 +446,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
+- [Yorben Vandersleyen Portfolio](https://yorben.me/#needle) - Polished developer portfolio showcasing native apps Tape and Needle.
 
 Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
